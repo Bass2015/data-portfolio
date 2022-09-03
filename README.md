@@ -78,7 +78,7 @@ The parsed html that BS4 has provided us comes with a bunch of handy methods. On
 
 And now the important part. How do I know where is the information of the jackets? Very easy, right click on one of the jackets and then click in 'Inspect' (or Inspeccionar in spanish).
 
-<img src='./images/inspect.png' width=25% height=25% 
+<img src='./images/inspect.png' width=50% 
     style="display: block; 
            border-radius: 20px;
            margin-left: auto;
@@ -86,7 +86,7 @@ And now the important part. How do I know where is the information of the jacket
 
 A tab opens, normally to the right. There we can see the html file of that webpage, with all the tags, attributes and information. Hovering the mouse over the tags will highlight the element in the webpage, so we can identify what do we need. In this case we need the a `div` tag with a `class` attribute with value "product details product-item-details".
 
-<img src='./images/mouse-hover.png' width=65% height=65%
+<img src='./images/mouse-hover.png' width=80%
     style="display: block; 
            border-radius: 20px;
            margin-left: auto;
@@ -101,7 +101,7 @@ Now, the only thing left is use the `find_all` function:
 ### :bookmark_tabs: How many pages?
 Once we have the jackets from the first page, now we want to iterate through the rest of the pages and do the same. But, how many pages do we have? When exploring the site, we can see that, for example, there are 3 pages. But that might change in the future, when we actually run all the code. The best way to do this is to actually extract that information from the website. At the bottom, we can see a text saying "Page 1 of 3". We already know how to see the html element that corresponds to this text. If we inspect the element, we can see that this text is in a `span` tag that's inside a `li` tag with a class attribute with value 'item summary'. We say that `span` is a *child* of `li`.
 
-<img src='./images/pages.png' width=65% height=65%
+<img src='./images/pages.png' width=100% 
     style="display: block; 
            border-radius: 20px;
            margin-left: auto;
