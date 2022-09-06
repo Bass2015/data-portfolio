@@ -10,14 +10,17 @@ pip install requests
 pip install beatifulsoup4
 pip install pandas
 ```
-(feel free to download the Jupyter Notebook in the repo to see the code running)
+
+
+(Feel free to clone the repo and use the Jupyter Notebook to see the code running. If you do so, you can write `pip install -r requirements.txt and all the needed packages will get installed.)
 
 ### Importing libraries
-We need to import the `requests` library to actually get the html document from the Internet, as BS4 is just a parser (like a translator) that will structure the data for us. Spoiler alert: We will need also to import `NoneType`, it will come handy to handle missing data. And datetime, just in case.
+We need to import the `requests` library to actually get the html document from the Internet, as BS4 is just a parser (like a translator) that will structure the data for us.  The `json` library will help us to save the gathered data. Spoiler alert: We will need also to import `NoneType`, it will come handy to handle missing data. And datetime, just in case.
 
 ```python
     import requests
     import pandas as pd
+    import json
     from bs4 import BeautifulSoup
     from types import NoneType
     from datetime import datetime
@@ -347,7 +350,14 @@ Ok, let's try again now:
 Success! :partying_face: We now have a list of beatiful dictionaries that we got with Beautiful Soup
 
 ## :airplane: Where to go from here?
-Now that we have gathered all the data, there are many possibilities. We can save the dictionary as a json file to process it later, for example. If we run the code periodically, we can extend that file with new data, and make new studies with the time variable. With this json (or directly from the dictionary) we can create a pandas DataFrame to start studying and cleaning the data. 
+Now that we have gathered all the data, there are many possibilities. We can save the dictionary as a json file to process it later, for example. If we run the code periodically, we can extend that file with new data, and make new studies with the time variable.
+
+```python
+    with open('jackets.json', 'w') as file:
+        json.dump(jackets, file, indent=4)
+```
+
+ With this json (or directly from the dictionary) we can create a pandas DataFrame to start studying and cleaning the data. 
 
 Actually, let's see how this would look.
 
