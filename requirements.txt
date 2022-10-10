@@ -1,3 +1,8 @@
 requests
 beatifulsoup4
 pandas
+sklearn
+numpy
+plotly
+matplotlib
+graphviz
