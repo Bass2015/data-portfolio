@@ -1,0 +1,23 @@
+version: "3"
+services:
+  jupyter:
+    build:
+      context: ./jupyter
+    ports:
+      - "8890:8888"
+    links:
+      - postgres
+    environment:
+      - JUPYTER_TOKEN=1234
+    volumes:
+      - "./notebooks:/notebooks"
+      - "./data:/data"
+
+  postgres:
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: passw
+    ports:
+      - 5430:5432

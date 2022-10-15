@@ -1,0 +1,5002 @@
+[
+	{
+		"id": "108B1D1D-5B23-A76C-55EF-C568E49A05DD",
+		"card_id": "CcU-2938",
+		"business_id": "b-2222",
+		"lat_long": "83.7839152128, -178.860353536",
+		"timestamp": 1625679796000,
+		"amount": "$293.57",
+		"declined": false,
+		"product_ids": 59
+	},
+	{
+		"id": "7DC26247-20EC-53FE-E555-B6C2E55CA5D5",
+		"card_id": "CcU-2945",
+		"business_id": "b-2226",
+		"lat_long": "58.9367181312, -76.8171099136",
+		"timestamp": 1643989976000,
+		"amount": "$312.50",
+		"declined": false,
+		"product_ids": "71, 41"
+	},
+	{
+		"id": "72997E96-DC2C-A4D7-7C24-66C302F8AE5A",
+		"card_id": "CcU-2952",
+		"business_id": "b-2230",
+		"lat_long": "43.3584055296, -17.6579677184",
+		"timestamp": 1643555796000,
+		"amount": "$239.87",
+		"declined": false,
+		"product_ids": "97, 41, 3"
+	},
+	{
+		"id": "AB069F53-965E-A2A8-CE06-CA8C4FD92501",
+		"card_id": "CcU-2959",
+		"business_id": "b-2234",
+		"lat_long": "1.6481916928, -158.0065729536",
+		"timestamp": 1618493838000,
+		"amount": "$60.99",
+		"declined": false,
+		"product_ids": "11, 13, 61, 29"
+	},
+	{
+		"id": "2F3B6AB6-147D-EB0B-FE8D-9A4E2EA9DBD5",
+		"card_id": "CcU-2966",
+		"business_id": "b-2238",
+		"lat_long": "-43.4811227136, 16.6025207808",
+		"timestamp": 1634537523000,
+		"amount": "$33.81",
+		"declined": false,
+		"product_ids": "47, 37, 11, 1"
+	},
+	{
+		"id": "5B0EEF86-B8A1-EFAA-5EE1-27E7DC8F54A4",
+		"card_id": "CcU-2973",
+		"business_id": "b-2242",
+		"lat_long": "-64.1136375808, 85.2490600448",
+		"timestamp": 1641433488000,
+		"amount": "$42.82",
+		"declined": false,
+		"product_ids": "23, 19, 71"
+	},
+	{
+		"id": "2B928E1C-EC14-A760-0A75-871477649D6A",
+		"card_id": "CcU-2980",
+		"business_id": "b-2246",
+		"lat_long": "-41.049559552, 161.6848917504",
+		"timestamp": 1628583289000,
+		"amount": "$383.73",
+		"declined": false,
+		"product_ids": "59, 13, 23"
+	},
+	{
+		"id": "063FBA79-99EC-66FB-29F7-25726D1764A5",
+		"card_id": "CcU-2987",
+		"business_id": "b-2250",
+		"lat_long": "-81.222680576, -129.049879552",
+		"timestamp": 1641504327000,
+		"amount": "$92.61",
+		"declined": false,
+		"product_ids": "47, 67, 31, 5"
+	},
+	{
+		"id": "D33B21EB-A61E-BD8C-5DE7-1DA4AC210AE6",
+		"card_id": "CcU-2994",
+		"business_id": "b-2254",
+		"lat_long": "5.2730230784, 5.061312512",
+		"timestamp": 1646227790000,
+		"amount": "$20.35",
+		"declined": false,
+		"product_ids": "17, 13, 73"
+	},
+	{
+		"id": "841AC1A0-9CA6-2AF7-EBC2-BC9C77C1EBB8",
+		"card_id": "CcU-3001",
+		"business_id": "b-2258",
+		"lat_long": "-39.6528282624, 88.7919108096",
+		"timestamp": 1639965670000,
+		"amount": "$428.40",
+		"declined": false,
+		"product_ids": 47
+	},
+	{
+		"id": "D3470F3E-9683-799A-40F1-E42C143BAC5A",
+		"card_id": "CcU-3008",
+		"business_id": "b-2262",
+		"lat_long": "-62.8359631872, -17.71266816",
+		"timestamp": 1638212802000,
+		"amount": "$379.14",
+		"declined": false,
+		"product_ids": 1
+	},
+	{
+		"id": "D6F37D7A-A07E-01AA-DE27-476C89D26A8E",
+		"card_id": "CcU-3015",
+		"business_id": "b-2266",
+		"lat_long": "-83.7747781632, 179.885781504",
+		"timestamp": 1637867192000,
+		"amount": "$419.97",
+		"declined": false,
+		"product_ids": "61, 13, 7, 71"
+	},
+	{
+		"id": "DE684792-5DEE-5E12-D0B5-C5661D48F42A",
+		"card_id": "CcU-3022",
+		"business_id": "b-2270",
+		"lat_long": "61.227753472, 13.3562263552",
+		"timestamp": 1624468042000,
+		"amount": "$71.55",
+		"declined": false,
+		"product_ids": 59
+	},
+	{
+		"id": "4832166E-E11C-BBC3-41DB-B8704686B7A3",
+		"card_id": "CcU-3029",
+		"business_id": "b-2274",
+		"lat_long": "-72.4205815808, -168.1795437568",
+		"timestamp": 1642522367000,
+		"amount": "$416.66",
+		"declined": false,
+		"product_ids": "41, 83"
+	},
+	{
+		"id": "1788C881-EE67-9BAB-377A-4C78E772160B",
+		"card_id": "CcU-3036",
+		"business_id": "b-2278",
+		"lat_long": "55.913455104, 110.5549494272",
+		"timestamp": 1642321184000,
+		"amount": "$486.83",
+		"declined": false,
+		"product_ids": "7, 2, 79"
+	},
+	{
+		"id": "4B3FF0B5-1547-801E-D5B0-44EDB2F62210",
+		"card_id": "CcU-3043",
+		"business_id": "b-2282",
+		"lat_long": "48.9972803584, -50.5497547776",
+		"timestamp": 1638658820000,
+		"amount": "$63.12",
+		"declined": false,
+		"product_ids": 83
+	},
+	{
+		"id": "2C7D9B65-2629-CAB1-5010-77BD1A74ADA6",
+		"card_id": "CcU-3050",
+		"business_id": "b-2286",
+		"lat_long": "-15.6687583232, -70.1488001024",
+		"timestamp": 1625784871000,
+		"amount": "$258.18",
+		"declined": false,
+		"product_ids": 53
+	},
+	{
+		"id": "71983A22-79E9-4843-60EB-B935637FFAA4",
+		"card_id": "CcU-3057",
+		"business_id": "b-2290",
+		"lat_long": "-80.9933531136, 52.5998742528",
+		"timestamp": 1641819851000,
+		"amount": "$155.44",
+		"declined": false,
+		"product_ids": "7, 3, 17"
+	},
+	{
+		"id": "91C71934-D65D-B4A1-0D5E-670A47DAC93C",
+		"card_id": "CcU-3064",
+		"business_id": "b-2294",
+		"lat_long": "83.6934478848, 114.2644864",
+		"timestamp": 1642889348000,
+		"amount": "$179.40",
+		"declined": false,
+		"product_ids": "79, 47"
+	},
+	{
+		"id": "79B621A9-3FAA-41E4-2845-3DE6532C743D",
+		"card_id": "CcU-3071",
+		"business_id": "b-2298",
+		"lat_long": "60.7640276992, -6.0305291264",
+		"timestamp": 1620523162000,
+		"amount": "$400.63",
+		"declined": false,
+		"product_ids": "11, 37, 43"
+	},
+	{
+		"id": "632BBEE9-4725-E15C-7FC4-5B5D7EC5BD29",
+		"card_id": "CcU-3078",
+		"business_id": "b-2302",
+		"lat_long": "45.8950729728, -58.7070354432",
+		"timestamp": 1630102405000,
+		"amount": "$203.23",
+		"declined": false,
+		"product_ids": "89, 3"
+	},
+	{
+		"id": "C79B917A-76A1-9A57-A9DF-D8CAD4C91684",
+		"card_id": "CcU-3085",
+		"business_id": "b-2306",
+		"lat_long": "28.4279876608, 96.7118838784",
+		"timestamp": 1641284513000,
+		"amount": "$15.05",
+		"declined": false,
+		"product_ids": 83
+	},
+	{
+		"id": "4334349E-CEB0-3D68-A4D4-FEB7718A1ACE",
+		"card_id": "CcU-3092",
+		"business_id": "b-2310",
+		"lat_long": "-20.4858958848, 150.8698927104",
+		"timestamp": 1620081443000,
+		"amount": "$458.74",
+		"declined": false,
+		"product_ids": 67
+	},
+	{
+		"id": "E6439B1C-C8F4-15B5-36ED-718482226631",
+		"card_id": "CcU-3099",
+		"business_id": "b-2314",
+		"lat_long": "47.7901473792, -27.6321056768",
+		"timestamp": 1640151102000,
+		"amount": "$266.09",
+		"declined": false,
+		"product_ids": 83
+	},
+	{
+		"id": "4915FB62-6A6C-9ACA-E92E-03D94E774161",
+		"card_id": "CcU-3106",
+		"business_id": "b-2318",
+		"lat_long": "52.3774137344, -176.6384135168",
+		"timestamp": 1641243116000,
+		"amount": "$376.41",
+		"declined": false,
+		"product_ids": "97, 43"
+	},
+	{
+		"id": "CDF1E4E5-1A4D-54CD-8734-D48AC4C3E5E6",
+		"card_id": "CcU-3113",
+		"business_id": "b-2322",
+		"lat_long": "-13.227096064, -55.1560356864",
+		"timestamp": 1619277929000,
+		"amount": "$261.35",
+		"declined": false,
+		"product_ids": "37, 43, 31, 5"
+	},
+	{
+		"id": "4E562A2B-99E9-8C82-2340-B6623BC9FE2F",
+		"card_id": "CcU-3120",
+		"business_id": "b-2326",
+		"lat_long": "-65.8033184768, 158.0998510592",
+		"timestamp": 1616514217000,
+		"amount": "$409.68",
+		"declined": false,
+		"product_ids": "1, 59"
+	},
+	{
+		"id": "2139A647-D965-AA81-3915-55DADA16CD3F",
+		"card_id": "CcU-3127",
+		"business_id": "b-2330",
+		"lat_long": "9.5045337088, 128.8788835328",
+		"timestamp": 1646650426000,
+		"amount": "$119.68",
+		"declined": false,
+		"product_ids": "79, 71"
+	},
+	{
+		"id": "55B161FA-A6E4-7783-11A3-ABB8930198E3",
+		"card_id": "CcU-3134",
+		"business_id": "b-2334",
+		"lat_long": "-47.3147159552, 135.2381384704",
+		"timestamp": 1623111128000,
+		"amount": "$412.48",
+		"declined": false,
+		"product_ids": "43, 83"
+	},
+	{
+		"id": "598EA316-9623-BDA9-6D24-529A830AD995",
+		"card_id": "CcU-3141",
+		"business_id": "b-2338",
+		"lat_long": "28.3061554176, -84.78810112",
+		"timestamp": 1636393260000,
+		"amount": "$227.44",
+		"declined": false,
+		"product_ids": "79, 19, 71"
+	},
+	{
+		"id": "C0E79971-4E7D-C876-ABE5-5402A7162951",
+		"card_id": "CcU-3148",
+		"business_id": "b-2342",
+		"lat_long": "-2.2297613312, -7.4983288832",
+		"timestamp": 1643218109000,
+		"amount": "$354.28",
+		"declined": false,
+		"product_ids": "37, 17, 5"
+	},
+	{
+		"id": "B9A3856E-B2FE-F957-CC3F-F3473D2B5CFE",
+		"card_id": "CcU-3155",
+		"business_id": "b-2346",
+		"lat_long": "-23.9967936512, -53.9415194624",
+		"timestamp": 1620648831000,
+		"amount": "$455.64",
+		"declined": false,
+		"product_ids": 61
+	},
+	{
+		"id": "A993ECC6-B915-5796-8B2A-8191DF52588E",
+		"card_id": "CcU-3162",
+		"business_id": "b-2350",
+		"lat_long": "-20.70611712, 140.1890896896",
+		"timestamp": 1636710367000,
+		"amount": "$45.04",
+		"declined": false,
+		"product_ids": "79, 17, 3, 53"
+	},
+	{
+		"id": "2A5A3001-104F-1D1F-7852-5BA801869B6F",
+		"card_id": "CcU-3169",
+		"business_id": "b-2354",
+		"lat_long": "-67.2524722176, -142.5573557248",
+		"timestamp": 1645986915000,
+		"amount": "$30.76",
+		"declined": false,
+		"product_ids": "13, 1, 41"
+	},
+	{
+		"id": "5E7BBA02-A5B6-C734-D7B7-241D674254A9",
+		"card_id": "CcU-3176",
+		"business_id": "b-2358",
+		"lat_long": "-13.0019257344, -115.7905188864",
+		"timestamp": 1625624717000,
+		"amount": "$396.15",
+		"declined": false,
+		"product_ids": "71, 79, 73, 61"
+	},
+	{
+		"id": "FAAD3FFC-1A17-E141-43D3-359A5BA7CB3B",
+		"card_id": "CcU-3183",
+		"business_id": "b-2362",
+		"lat_long": "59.4872242176, 129.9640623104",
+		"timestamp": 1635106583000,
+		"amount": "$149.84",
+		"declined": false,
+		"product_ids": "2, 13, 5, 19"
+	},
+	{
+		"id": "276AB37B-1B03-234B-1DA0-88FF91175221",
+		"card_id": "CcU-3190",
+		"business_id": "b-2366",
+		"lat_long": "80.0352710656, -20.541671424",
+		"timestamp": 1636414749000,
+		"amount": "$427.71",
+		"declined": false,
+		"product_ids": "19, 97, 61"
+	},
+	{
+		"id": "FA053936-75D8-85FA-490D-9B624E1B920A",
+		"card_id": "CcU-3197",
+		"business_id": "b-2370",
+		"lat_long": "-75.1414936576, 139.1819940864",
+		"timestamp": 1625566715000,
+		"amount": "$151.32",
+		"declined": false,
+		"product_ids": "37, 5"
+	},
+	{
+		"id": "E5078B1B-9591-E204-CC0A-E14C4EC74EAB",
+		"card_id": "CcU-3204",
+		"business_id": "b-2374",
+		"lat_long": "69.543437312, 98.8782738432",
+		"timestamp": 1630891782000,
+		"amount": "$220.85",
+		"declined": false,
+		"product_ids": "17, 73"
+	},
+	{
+		"id": "9CB62BC2-FFA6-449F-59E4-379EDA5F29C6",
+		"card_id": "CcU-3211",
+		"business_id": "b-2378",
+		"lat_long": "-59.3929253888, 65.4921740288",
+		"timestamp": 1628456350000,
+		"amount": "$448.44",
+		"declined": false,
+		"product_ids": "29, 61, 71, 47"
+	},
+	{
+		"id": "3C612673-2DD7-43C4-87CA-F90DE2E1372E",
+		"card_id": "CcU-3218",
+		"business_id": "b-2382",
+		"lat_long": "-8.8929613824, 137.2026401792",
+		"timestamp": 1620224892000,
+		"amount": "$477.10",
+		"declined": false,
+		"product_ids": "41, 37, 3"
+	},
+	{
+		"id": "2449E458-D672-3152-B598-FE959AC3AEB6",
+		"card_id": "CcU-3225",
+		"business_id": "b-2386",
+		"lat_long": "-12.1829583872, -73.7255243776",
+		"timestamp": 1619392539000,
+		"amount": "$245.25",
+		"declined": false,
+		"product_ids": "23, 71, 41, 5"
+	},
+	{
+		"id": "FD2E8957-414B-BEEC-E9AD-59AA7A8A6290",
+		"card_id": "CcU-3232",
+		"business_id": "b-2390",
+		"lat_long": "-24.3194717184, -11.4134912",
+		"timestamp": 1647131254000,
+		"amount": "$78.29",
+		"declined": false,
+		"product_ids": "83, 7, 17, 89"
+	},
+	{
+		"id": "15CC4862-D13E-ED4B-941C-486484AFDFAD",
+		"card_id": "CcU-3239",
+		"business_id": "b-2394",
+		"lat_long": "-14.0843383808, 7.7993745408",
+		"timestamp": 1619099802000,
+		"amount": "$447.11",
+		"declined": false,
+		"product_ids": "97, 89"
+	},
+	{
+		"id": "51DDB2CB-211E-C27A-24C1-239329CA17BF",
+		"card_id": "CcU-3246",
+		"business_id": "b-2398",
+		"lat_long": "1.402783232, -36.9595363328",
+		"timestamp": 1620115681000,
+		"amount": "$481.86",
+		"declined": false,
+		"product_ids": "47, 41, 23, 7"
+	},
+	{
+		"id": "ECA2BD28-2B62-921A-A912-E68C2806C27E",
+		"card_id": "CcU-3253",
+		"business_id": "b-2402",
+		"lat_long": "79.0700643328, -54.1087904768",
+		"timestamp": 1631186614000,
+		"amount": "$370.01",
+		"declined": false,
+		"product_ids": "79, 29"
+	},
+	{
+		"id": "B6B96082-ECDB-22C1-C413-6E14E8078EC6",
+		"card_id": "CcU-3260",
+		"business_id": "b-2406",
+		"lat_long": "33.0893403136, 156.1172289536",
+		"timestamp": 1626177305000,
+		"amount": "$356.85",
+		"declined": false,
+		"product_ids": "43, 83"
+	},
+	{
+		"id": "643CF9F8-30EC-537D-2FB9-E5BEAD5717C6",
+		"card_id": "CcU-3267",
+		"business_id": "b-2410",
+		"lat_long": "87.1070923776, 159.4832423936",
+		"timestamp": 1621254068000,
+		"amount": "$477.51",
+		"declined": false,
+		"product_ids": 7
+	},
+	{
+		"id": "77B044E8-522C-7870-18E7-B4458BD7EC90",
+		"card_id": "CcU-3274",
+		"business_id": "b-2414",
+		"lat_long": "-84.7013271552, -108.8280443904",
+		"timestamp": 1635120812000,
+		"amount": "$389.62",
+		"declined": false,
+		"product_ids": "61, 47, 29"
+	},
+	{
+		"id": "B3CE84BA-2A5C-226C-749F-ECCDF91F19CE",
+		"card_id": "CcU-3281",
+		"business_id": "b-2418",
+		"lat_long": "-87.9506374656, -176.5752183808",
+		"timestamp": 1626989328000,
+		"amount": "$320.14",
+		"declined": false,
+		"product_ids": "17, 1, 11"
+	},
+	{
+		"id": "7545D580-8332-0024-92F2-6AB47E5C205E",
+		"card_id": "CcU-3288",
+		"business_id": "b-2422",
+		"lat_long": "-70.2914691072, -172.7615072256",
+		"timestamp": 1619405740000,
+		"amount": "$70.79",
+		"declined": false,
+		"product_ids": "47, 2"
+	},
+	{
+		"id": "7AB09864-E615-84D4-A818-0E6177185C92",
+		"card_id": "CcU-3295",
+		"business_id": "b-2426",
+		"lat_long": "18.7004151808, -15.893744128",
+		"timestamp": 1617954830000,
+		"amount": "$442.32",
+		"declined": false,
+		"product_ids": 23
+	},
+	{
+		"id": "B53165B9-7C93-0783-641C-5EA94E4C8683",
+		"card_id": "CcU-3302",
+		"business_id": "b-2430",
+		"lat_long": "-11.1418186752, -166.0740972544",
+		"timestamp": 1626775935000,
+		"amount": "$164.86",
+		"declined": false,
+		"product_ids": "71, 53"
+	},
+	{
+		"id": "8432397E-BCE5-EC1D-67E3-E0F92EDB1777",
+		"card_id": "CcU-3309",
+		"business_id": "b-2434",
+		"lat_long": "-81.1295386624, -157.7700215808",
+		"timestamp": 1639488882000,
+		"amount": "$192.86",
+		"declined": false,
+		"product_ids": "7, 61, 23, 73"
+	},
+	{
+		"id": "44ED47D3-5B2D-2D7C-44C8-8B258DF3773C",
+		"card_id": "CcU-3316",
+		"business_id": "b-2438",
+		"lat_long": "-66.2683267072, 107.2030398464",
+		"timestamp": 1617823092000,
+		"amount": "$64.15",
+		"declined": false,
+		"product_ids": "19, 41, 3"
+	},
+	{
+		"id": "D1B245BE-2D26-CA7D-C357-027A6D27A0A1",
+		"card_id": "CcU-3323",
+		"business_id": "b-2442",
+		"lat_long": "-89.380389888, 145.0691058688",
+		"timestamp": 1628574780000,
+		"amount": "$33.40",
+		"declined": false,
+		"product_ids": "83, 67"
+	},
+	{
+		"id": "8655F767-78E6-733A-37B9-210CC3D1D4A9",
+		"card_id": "CcU-3330",
+		"business_id": "b-2446",
+		"lat_long": "89.429228032, 84.33507328",
+		"timestamp": 1627089787000,
+		"amount": "$58.95",
+		"declined": false,
+		"product_ids": "61, 67, 3, 23"
+	},
+	{
+		"id": "414D51E1-B793-49F5-B593-795429B4E258",
+		"card_id": "CcU-3337",
+		"business_id": "b-2450",
+		"lat_long": "-41.8664717312, 76.37190144",
+		"timestamp": 1617153769000,
+		"amount": "$50.99",
+		"declined": false,
+		"product_ids": "7, 67, 23"
+	},
+	{
+		"id": "9B6B74E4-92EC-1E1B-908B-3C611E43611D",
+		"card_id": "CcU-3344",
+		"business_id": "b-2454",
+		"lat_long": "23.1261847552, 165.453066752",
+		"timestamp": 1626330910000,
+		"amount": "$444.16",
+		"declined": false,
+		"product_ids": "97, 71, 2"
+	},
+	{
+		"id": "8796C289-D355-1A10-3CD5-ADF327D4642A",
+		"card_id": "CcU-3351",
+		"business_id": "b-2458",
+		"lat_long": "-81.8838421504, 95.129209344",
+		"timestamp": 1620573377000,
+		"amount": "$413.50",
+		"declined": false,
+		"product_ids": "73, 83, 23"
+	},
+	{
+		"id": "EDC458E3-6E51-2D30-5CD6-838D10959BA5",
+		"card_id": "CcU-3358",
+		"business_id": "b-2462",
+		"lat_long": "59.5109033984, -129.5318037504",
+		"timestamp": 1630815945000,
+		"amount": "$227.29",
+		"declined": false,
+		"product_ids": "13, 29, 59"
+	},
+	{
+		"id": "E6E14C3A-1AE7-7B62-57D8-16A6F19C995F",
+		"card_id": "CcU-3365",
+		"business_id": "b-2466",
+		"lat_long": "77.937078272, -39.7161906176",
+		"timestamp": 1619684477000,
+		"amount": "$26.22",
+		"declined": false,
+		"product_ids": "97, 1, 7"
+	},
+	{
+		"id": "DB503576-8093-1D85-37D6-3439B577AD73",
+		"card_id": "CcU-3372",
+		"business_id": "b-2470",
+		"lat_long": "-58.9379032064, 85.8623578112",
+		"timestamp": 1637096432000,
+		"amount": "$124.06",
+		"declined": false,
+		"product_ids": "5, 43"
+	},
+	{
+		"id": "B4F9ED4C-DEB5-266B-1A61-1A1965A10118",
+		"card_id": "CcU-3379",
+		"business_id": "b-2474",
+		"lat_long": "65.0690668544, -55.9025476608",
+		"timestamp": 1627433067000,
+		"amount": "$158.50",
+		"declined": false,
+		"product_ids": 89
+	},
+	{
+		"id": "85390F4A-9A61-3352-7EE3-ABDA9EDC7C55",
+		"card_id": "CcU-3386",
+		"business_id": "b-2478",
+		"lat_long": "51.8285784064, -117.3192126464",
+		"timestamp": 1627942402000,
+		"amount": "$223.67",
+		"declined": false,
+		"product_ids": "73, 2"
+	},
+	{
+		"id": "B1ED4136-DA1A-6BF3-4C61-7A575F624670",
+		"card_id": "CcU-3393",
+		"business_id": "b-2482",
+		"lat_long": "-71.5791250432, -40.90865152",
+		"timestamp": 1623255791000,
+		"amount": "$22.19",
+		"declined": false,
+		"product_ids": "23, 71, 29, 5"
+	},
+	{
+		"id": "92DCEDD9-46E7-9792-FA05-9B193E926C8B",
+		"card_id": "CcU-3400",
+		"business_id": "b-2486",
+		"lat_long": "-87.6272432128, -120.9034125312",
+		"timestamp": 1632939098000,
+		"amount": "$325.69",
+		"declined": false,
+		"product_ids": "61, 29, 47"
+	},
+	{
+		"id": "E8063254-0D54-D3C6-B339-78456C984528",
+		"card_id": "CcU-3407",
+		"business_id": "b-2490",
+		"lat_long": "-66.3056008192, 77.6051360768",
+		"timestamp": 1634166211000,
+		"amount": "$461.83",
+		"declined": false,
+		"product_ids": "5, 79"
+	},
+	{
+		"id": "9B487518-5BB7-8169-CD02-3E3992459539",
+		"card_id": "CcU-3414",
+		"business_id": "b-2494",
+		"lat_long": "53.8688925696, 95.6111263744",
+		"timestamp": 1632175337000,
+		"amount": "$318.91",
+		"declined": false,
+		"product_ids": 41
+	},
+	{
+		"id": "5DC8DC6C-24F8-36A6-4A1C-60E444EC331E",
+		"card_id": "CcU-3421",
+		"business_id": "b-2498",
+		"lat_long": "48.17781248, 45.2784198656",
+		"timestamp": 1645824925000,
+		"amount": "$61.37",
+		"declined": false,
+		"product_ids": "17, 59"
+	},
+	{
+		"id": "E147E181-2D6F-E466-AE2A-D2719EE19DDF",
+		"card_id": "CcU-3428",
+		"business_id": "b-2502",
+		"lat_long": "-13.3549968384, -158.5614355456",
+		"timestamp": 1630179786000,
+		"amount": "$164.88",
+		"declined": false,
+		"product_ids": "43, 53"
+	},
+	{
+		"id": "53398420-74DC-B969-5566-4A83B0DDD757",
+		"card_id": "CcU-3435",
+		"business_id": "b-2506",
+		"lat_long": "-11.6928208896, -139.3603497984",
+		"timestamp": 1617992925000,
+		"amount": "$270.62",
+		"declined": false,
+		"product_ids": "43, 7"
+	},
+	{
+		"id": "A38992C3-9B3D-C35C-3AC8-477132B4904D",
+		"card_id": "CcU-3442",
+		"business_id": "b-2510",
+		"lat_long": "19.7848306688, -25.028188672",
+		"timestamp": 1627187824000,
+		"amount": "$451.29",
+		"declined": false,
+		"product_ids": "1, 2, 31"
+	},
+	{
+		"id": "439F4F6A-57C7-3A59-6038-AD7133887522",
+		"card_id": "CcU-3449",
+		"business_id": "b-2514",
+		"lat_long": "-13.9867411456, -104.268312576",
+		"timestamp": 1616046168000,
+		"amount": "$60.93",
+		"declined": false,
+		"product_ids": "79, 17"
+	},
+	{
+		"id": "CA8EDD4B-5EC5-8447-3804-20B27924B221",
+		"card_id": "CcU-3456",
+		"business_id": "b-2518",
+		"lat_long": "-74.8242696192, 58.2284633088",
+		"timestamp": 1628682582000,
+		"amount": "$26.21",
+		"declined": false,
+		"product_ids": 73
+	},
+	{
+		"id": "6118B3E9-D9D1-55D4-1A1B-A58CC63845B6",
+		"card_id": "CcU-3463",
+		"business_id": "b-2522",
+		"lat_long": "-28.3637183488, 58.140263936",
+		"timestamp": 1639658951000,
+		"amount": "$414.53",
+		"declined": false,
+		"product_ids": "19, 71"
+	},
+	{
+		"id": "518D6CCF-593A-8932-BE5B-44597DCDDFE9",
+		"card_id": "CcU-3470",
+		"business_id": "b-2526",
+		"lat_long": "48.0228115456, 171.9417682944",
+		"timestamp": 1626836911000,
+		"amount": "$325.89",
+		"declined": false,
+		"product_ids": "79, 11"
+	},
+	{
+		"id": "CBEB6D56-317E-1FA2-55D1-31B5C769C6C7",
+		"card_id": "CcU-3477",
+		"business_id": "b-2530",
+		"lat_long": "-86.017708544, -50.9870491648",
+		"timestamp": 1638222684000,
+		"amount": "$173.34",
+		"declined": false,
+		"product_ids": "2, 23"
+	},
+	{
+		"id": "770ECE34-EC9D-34AE-8A96-A8E5749AA037",
+		"card_id": "CcU-3484",
+		"business_id": "b-2534",
+		"lat_long": "22.464975872, -95.077144064",
+		"timestamp": 1646161962000,
+		"amount": "$155.57",
+		"declined": false,
+		"product_ids": "59, 97, 2, 43"
+	},
+	{
+		"id": "743280CC-B786-23A5-5E18-15B5E1A9CB01",
+		"card_id": "CcU-3491",
+		"business_id": "b-2538",
+		"lat_long": "-73.4585229312, 34.2678037504",
+		"timestamp": 1618447366000,
+		"amount": "$169.10",
+		"declined": false,
+		"product_ids": "67, 41, 13"
+	},
+	{
+		"id": "75685049-7F29-3D74-733E-571854E7C521",
+		"card_id": "CcU-3498",
+		"business_id": "b-2542",
+		"lat_long": "12.3639561216, -107.1690033152",
+		"timestamp": 1623775080000,
+		"amount": "$183.84",
+		"declined": false,
+		"product_ids": "2, 71"
+	},
+	{
+		"id": "51CEA9A2-56AD-C8C8-EBDB-6AF2B74433F3",
+		"card_id": "CcU-3505",
+		"business_id": "b-2546",
+		"lat_long": "54.6398471168, 98.5172032512",
+		"timestamp": 1640419265000,
+		"amount": "$239.36",
+		"declined": false,
+		"product_ids": "5, 79, 73"
+	},
+	{
+		"id": "B9D9B488-E843-C5AD-FB5B-2F4DE894EA53",
+		"card_id": "CcU-3512",
+		"business_id": "b-2550",
+		"lat_long": "66.2626398208, -151.0586621952",
+		"timestamp": 1635248129000,
+		"amount": "$308.99",
+		"declined": false,
+		"product_ids": 37
+	},
+	{
+		"id": "8D895ADD-5501-2A9C-24DD-2EAEB7AEF1C5",
+		"card_id": "CcU-3519",
+		"business_id": "b-2554",
+		"lat_long": "8.5871087616, -34.6615648256",
+		"timestamp": 1635363837000,
+		"amount": "$181.87",
+		"declined": false,
+		"product_ids": "61, 43, 1"
+	},
+	{
+		"id": "E1DEA6A2-4E2A-C572-3E58-CBCBEAED2A99",
+		"card_id": "CcU-3526",
+		"business_id": "b-2558",
+		"lat_long": "-43.0961108992, 112.6403743744",
+		"timestamp": 1629304283000,
+		"amount": "$105.42",
+		"declined": false,
+		"product_ids": "47, 97"
+	},
+	{
+		"id": "A2689A2C-722B-9357-886D-2DDA864E246D",
+		"card_id": "CcU-3533",
+		"business_id": "b-2562",
+		"lat_long": "81.2377033728, -56.2813515776",
+		"timestamp": 1635698010000,
+		"amount": "$241.48",
+		"declined": false,
+		"product_ids": "17, 23, 13, 89"
+	},
+	{
+		"id": "CAAD217C-D2CC-C0D3-7D3A-95D6A32383EB",
+		"card_id": "CcU-3540",
+		"business_id": "b-2566",
+		"lat_long": "-38.5583654912, 100.383189504",
+		"timestamp": 1622588465000,
+		"amount": "$280.34",
+		"declined": false,
+		"product_ids": "79, 67, 29"
+	},
+	{
+		"id": "23CF8ED3-402C-7C54-59CD-DB505C5CCCCE",
+		"card_id": "CcU-3547",
+		"business_id": "b-2570",
+		"lat_long": "30.4188925952, -31.8901768192",
+		"timestamp": 1621229620000,
+		"amount": "$425.64",
+		"declined": false,
+		"product_ids": "61, 67, 1"
+	},
+	{
+		"id": "BA91684D-74AA-3BB6-148B-346B6EAD1937",
+		"card_id": "CcU-3554",
+		"business_id": "b-2574",
+		"lat_long": "-2.0354372608, -169.563285504",
+		"timestamp": 1641581554000,
+		"amount": "$111.64",
+		"declined": false,
+		"product_ids": "61, 1"
+	},
+	{
+		"id": "2B20375D-A316-8471-E83E-41EC79B7A88D",
+		"card_id": "CcU-3561",
+		"business_id": "b-2578",
+		"lat_long": "74.1054133248, -173.8095081472",
+		"timestamp": 1618236842000,
+		"amount": "$43.22",
+		"declined": false,
+		"product_ids": "73, 89, 3"
+	},
+	{
+		"id": "CDCDE7A5-39CD-9ABD-59D5-71641582C825",
+		"card_id": "CcU-3568",
+		"business_id": "b-2582",
+		"lat_long": "48.5640369152, -39.76593152",
+		"timestamp": 1622221651000,
+		"amount": "$289.04",
+		"declined": false,
+		"product_ids": "1, 13, 67, 11"
+	},
+	{
+		"id": "B4793303-EDF5-4F53-39CB-AA6A2877CDF9",
+		"card_id": "CcU-3575",
+		"business_id": "b-2586",
+		"lat_long": "57.7245380608, 62.9421807616",
+		"timestamp": 1639831722000,
+		"amount": "$45.36",
+		"declined": false,
+		"product_ids": "37, 79"
+	},
+	{
+		"id": "69482DC9-4E31-62E0-14AC-05908C632212",
+		"card_id": "CcU-3582",
+		"business_id": "b-2590",
+		"lat_long": "10.0089513984, -73.6605658112",
+		"timestamp": 1640282519000,
+		"amount": "$233.45",
+		"declined": false,
+		"product_ids": 79
+	},
+	{
+		"id": "EEAAE515-66B6-B449-5926-54D397988AD9",
+		"card_id": "CcU-3589",
+		"business_id": "b-2594",
+		"lat_long": "-55.2664456192, 21.8042976256",
+		"timestamp": 1625610887000,
+		"amount": "$316.74",
+		"declined": false,
+		"product_ids": "43, 59, 11"
+	},
+	{
+		"id": "7A0BCF99-A8ED-A7C7-2828-CD30FDC44297",
+		"card_id": "CcU-3596",
+		"business_id": "b-2598",
+		"lat_long": "-51.2038091776, -8.9516363776",
+		"timestamp": 1644318305000,
+		"amount": "$92.18",
+		"declined": false,
+		"product_ids": "17, 61"
+	},
+	{
+		"id": "636C9DDA-453D-B336-FD2E-89A0E48E1C52",
+		"card_id": "CcU-3603",
+		"business_id": "b-2602",
+		"lat_long": "-12.1955081216, -162.3607588864",
+		"timestamp": 1639053042000,
+		"amount": "$357.08",
+		"declined": false,
+		"product_ids": "97, 5"
+	},
+	{
+		"id": "24EB2B70-3602-FDA8-54D5-9CD7F3CA523C",
+		"card_id": "CcU-3610",
+		"business_id": "b-2606",
+		"lat_long": "27.6947714048, -10.7154512896",
+		"timestamp": 1634778309000,
+		"amount": "$46.25",
+		"declined": false,
+		"product_ids": 2
+	},
+	{
+		"id": "D1E3CC8F-C783-2C23-1ED2-EBA82281C666",
+		"card_id": "CcU-3617",
+		"business_id": "b-2610",
+		"lat_long": "-8.5768101888, -53.3696371712",
+		"timestamp": 1625087273000,
+		"amount": "$406.11",
+		"declined": false,
+		"product_ids": 79
+	},
+	{
+		"id": "494D615C-793A-2D79-B0D7-872F4F822346",
+		"card_id": "CcU-3624",
+		"business_id": "b-2614",
+		"lat_long": "-89.2202033152, -100.2761054208",
+		"timestamp": 1642921143000,
+		"amount": "$266.90",
+		"declined": false,
+		"product_ids": "7, 17, 13"
+	},
+	{
+		"id": "3D4B5BDD-C674-13F6-B132-09D180277BC9",
+		"card_id": "CcU-3631",
+		"business_id": "b-2618",
+		"lat_long": "-8.4623632384, 88.7757519872",
+		"timestamp": 1643697048000,
+		"amount": "$221.78",
+		"declined": false,
+		"product_ids": "47, 31, 19"
+	},
+	{
+		"id": "443E9122-55E4-142E-AAF8-C0E7148C38AB",
+		"card_id": "CcU-3638",
+		"business_id": "b-2618",
+		"lat_long": "-59.012570624, 22.739167744",
+		"timestamp": 1642002925000,
+		"amount": "$176.34",
+		"declined": false,
+		"product_ids": 43
+	},
+	{
+		"id": "22C9EC22-45FC-72C8-63CE-5FA99A24E770",
+		"card_id": "CcU-3645",
+		"business_id": "b-2618",
+		"lat_long": "28.443948544, -11.3959416832",
+		"timestamp": 1623427729000,
+		"amount": "$196.71",
+		"declined": false,
+		"product_ids": "5, 97, 11, 13"
+	},
+	{
+		"id": "3C291BE8-CA7C-39BA-76F8-7CB74937EC98",
+		"card_id": "CcU-3652",
+		"business_id": "b-2618",
+		"lat_long": "-18.1059252224, 10.8415140864",
+		"timestamp": 1624977060000,
+		"amount": "$468.49",
+		"declined": false,
+		"product_ids": 31
+	},
+	{
+		"id": "1DE927AB-29A8-654F-3372-43971B6844AA",
+		"card_id": "CcU-3659",
+		"business_id": "b-2618",
+		"lat_long": "79.946738688, 90.3733082112",
+		"timestamp": 1628178745000,
+		"amount": "$440.13",
+		"declined": false,
+		"product_ids": "73, 79, 97, 13"
+	},
+	{
+		"id": "5E6EC264-1D42-EE1D-870A-497C85828A6A",
+		"card_id": "CcU-3666",
+		"business_id": "b-2618",
+		"lat_long": "66.9036684288, 33.444680192",
+		"timestamp": 1643630471000,
+		"amount": "$492.42",
+		"declined": false,
+		"product_ids": "5, 29"
+	},
+	{
+		"id": "EC243849-3D95-A5B3-29B4-6F8AA1A5B999",
+		"card_id": "CcU-3673",
+		"business_id": "b-2618",
+		"lat_long": "-43.1488028672, -47.00931584",
+		"timestamp": 1616465870000,
+		"amount": "$38.03",
+		"declined": false,
+		"product_ids": "23, 13"
+	},
+	{
+		"id": "833D9E90-4125-CC29-1E8E-647F9F17571A",
+		"card_id": "CcU-3680",
+		"business_id": "b-2618",
+		"lat_long": "-11.4892433408, 50.0640352256",
+		"timestamp": 1620120812000,
+		"amount": "$295.35",
+		"declined": false,
+		"product_ids": 3
+	},
+	{
+		"id": "1A9B5411-64D8-DEC4-AC74-43E235AAEFC1",
+		"card_id": "CcU-3687",
+		"business_id": "b-2618",
+		"lat_long": "44.3314315264, 149.1675122688",
+		"timestamp": 1629676311000,
+		"amount": "$306.96",
+		"declined": false,
+		"product_ids": "3, 67"
+	},
+	{
+		"id": "EAD9435C-77C0-3D84-D9A9-BF535EDABE7A",
+		"card_id": "CcU-3694",
+		"business_id": "b-2618",
+		"lat_long": "-45.6502659072, 63.6175548416",
+		"timestamp": 1619894500000,
+		"amount": "$113.49",
+		"declined": false,
+		"product_ids": "11, 67"
+	},
+	{
+		"id": "1017AA59-3D5F-7A4C-1992-D151A8D1FA0A",
+		"card_id": "CcU-3701",
+		"business_id": "b-2618",
+		"lat_long": "4.276451328, -101.5540074496",
+		"timestamp": 1635728531000,
+		"amount": "$447.11",
+		"declined": false,
+		"product_ids": "37, 13"
+	},
+	{
+		"id": "8719DE73-B4B6-3B52-29CE-15B666A73AF6",
+		"card_id": "CcU-3708",
+		"business_id": "b-2618",
+		"lat_long": "-57.2433910784, 144.0126513152",
+		"timestamp": 1644143821000,
+		"amount": "$411.70",
+		"declined": false,
+		"product_ids": "47, 43, 1"
+	},
+	{
+		"id": "A143CEC3-5F73-4A92-BBEC-48125E1A9C17",
+		"card_id": "CcU-3715",
+		"business_id": "b-2618",
+		"lat_long": "39.8874615808, -145.7331158016",
+		"timestamp": 1629039738000,
+		"amount": "$175.13",
+		"declined": false,
+		"product_ids": "71, 41, 11"
+	},
+	{
+		"id": "1FB125A8-0901-63AC-E2B7-349E5974FBAD",
+		"card_id": "CcU-3722",
+		"business_id": "b-2618",
+		"lat_long": "-44.4339063808, -82.0843885568",
+		"timestamp": 1645022005000,
+		"amount": "$415.11",
+		"declined": false,
+		"product_ids": 79
+	},
+	{
+		"id": "F22BB361-E3CD-BC41-DD6A-A4694F175CD8",
+		"card_id": "CcU-3729",
+		"business_id": "b-2618",
+		"lat_long": "38.2838494208, 78.8200505344",
+		"timestamp": 1629644461000,
+		"amount": "$385.28",
+		"declined": false,
+		"product_ids": "23, 53, 79"
+	},
+	{
+		"id": "C0B1ABC1-0C03-5C27-977E-A5EC13EED863",
+		"card_id": "CcU-3736",
+		"business_id": "b-2618",
+		"lat_long": "-3.6879847424, -5.9640431616",
+		"timestamp": 1635834092000,
+		"amount": "$171.43",
+		"declined": false,
+		"product_ids": "41, 1, 23, 3"
+	},
+	{
+		"id": "0668296C-CDB9-A883-76BC-2E4C44F8C8AE",
+		"card_id": "CcU-3743",
+		"business_id": "b-2618",
+		"lat_long": "-34.3593055232, -100.555928064",
+		"timestamp": 1643162834000,
+		"amount": "$394.18",
+		"declined": false,
+		"product_ids": "89, 83, 79"
+	},
+	{
+		"id": "2F74E99B-9337-7F74-5208-5DEC81A174FD",
+		"card_id": "CcU-3750",
+		"business_id": "b-2618",
+		"lat_long": "75.004233216, -64.1653274624",
+		"timestamp": 1622824830000,
+		"amount": "$475.06",
+		"declined": false,
+		"product_ids": "17, 47, 1, 43"
+	},
+	{
+		"id": "3DBC2D2E-1885-9D8A-3476-61E6865183AE",
+		"card_id": "CcU-3757",
+		"business_id": "b-2618",
+		"lat_long": "-56.4905921536, 36.23921408",
+		"timestamp": 1640552875000,
+		"amount": "$143.89",
+		"declined": false,
+		"product_ids": "83, 29, 31"
+	},
+	{
+		"id": "C56D5792-57D2-19E4-A43D-80D362E62879",
+		"card_id": "CcU-3764",
+		"business_id": "b-2618",
+		"lat_long": "69.8921298944, -141.3010291712",
+		"timestamp": 1631322524000,
+		"amount": "$325.08",
+		"declined": false,
+		"product_ids": "7, 47"
+	},
+	{
+		"id": "18D648AB-7D54-A3E8-2DBA-2D8D2991CA43",
+		"card_id": "CcU-3771",
+		"business_id": "b-2618",
+		"lat_long": "-67.1179923456, -174.1413153792",
+		"timestamp": 1635822494000,
+		"amount": "$305.02",
+		"declined": false,
+		"product_ids": 89
+	},
+	{
+		"id": "51328349-2536-AB4A-8E97-D2ED2782A7B8",
+		"card_id": "CcU-3778",
+		"business_id": "b-2618",
+		"lat_long": "-56.0463863808, 94.3282684928",
+		"timestamp": 1619006046000,
+		"amount": "$437.72",
+		"declined": false,
+		"product_ids": 43
+	},
+	{
+		"id": "2F499B4D-4DC7-B337-010D-8B7471812A80",
+		"card_id": "CcU-3785",
+		"business_id": "b-2618",
+		"lat_long": "-25.2248092672, 72.273481216",
+		"timestamp": 1618067654000,
+		"amount": "$363.51",
+		"declined": false,
+		"product_ids": 1
+	},
+	{
+		"id": "CC77BEEC-E348-8BC9-BE81-46F75404E183",
+		"card_id": "CcU-3792",
+		"business_id": "b-2618",
+		"lat_long": "40.4460454912, -71.6378425344",
+		"timestamp": 1621157858000,
+		"amount": "$286.85",
+		"declined": false,
+		"product_ids": "71, 37, 47, 7"
+	},
+	{
+		"id": "DC5ABC81-6D3F-E8CF-29A9-CC136D6EADB8",
+		"card_id": "CcU-3799",
+		"business_id": "b-2618",
+		"lat_long": "-6.9437560832, -56.6999062528",
+		"timestamp": 1647310532000,
+		"amount": "$101.32",
+		"declined": false,
+		"product_ids": "73, 31"
+	},
+	{
+		"id": "9AB66BAE-D007-3BD8-C34B-93C854E6715C",
+		"card_id": "CcU-3806",
+		"business_id": "b-2618",
+		"lat_long": "60.200613888, 143.2816917504",
+		"timestamp": 1638552624000,
+		"amount": "$20.93",
+		"declined": false,
+		"product_ids": "43, 3, 31, 5"
+	},
+	{
+		"id": "4236493E-3596-5E19-4768-2195A5D17CC0",
+		"card_id": "CcU-3813",
+		"business_id": "b-2618",
+		"lat_long": "16.5665385472, -168.9585488896",
+		"timestamp": 1636205887000,
+		"amount": "$432.21",
+		"declined": false,
+		"product_ids": "71, 67, 13"
+	},
+	{
+		"id": "BEB017E6-42B6-10EA-3295-42CA3DD78302",
+		"card_id": "CcU-3820",
+		"business_id": "b-2618",
+		"lat_long": "-65.8667557888, 155.437608448",
+		"timestamp": 1630713673000,
+		"amount": "$223.57",
+		"declined": false,
+		"product_ids": 5
+	},
+	{
+		"id": "DAE50B38-3526-4AAF-71DB-4B45D29EB26A",
+		"card_id": "CcU-3827",
+		"business_id": "b-2618",
+		"lat_long": "51.7478375424, 114.6447785984",
+		"timestamp": 1619353744000,
+		"amount": "$309.22",
+		"declined": false,
+		"product_ids": "13, 5"
+	},
+	{
+		"id": "8A515ABB-2FED-22CC-CD25-9493530D2EB4",
+		"card_id": "CcU-3834",
+		"business_id": "b-2618",
+		"lat_long": "-64.4061728768, 67.8772569088",
+		"timestamp": 1619596329000,
+		"amount": "$337.22",
+		"declined": false,
+		"product_ids": "43, 47, 31"
+	},
+	{
+		"id": "C2248CED-C28E-6A93-6AF4-C33CF738471B",
+		"card_id": "CcU-3841",
+		"business_id": "b-2494",
+		"lat_long": "46.1832904704, -141.2795270144",
+		"timestamp": 1630059934000,
+		"amount": "$420.06",
+		"declined": false,
+		"product_ids": "7, 2"
+	},
+	{
+		"id": "EAD89828-65AA-E817-F946-E7365972D94E",
+		"card_id": "CcU-3848",
+		"business_id": "b-2494",
+		"lat_long": "-0.7068877824, -127.4824225792",
+		"timestamp": 1625564969000,
+		"amount": "$26.96",
+		"declined": false,
+		"product_ids": "53, 13, 47, 97"
+	},
+	{
+		"id": "7E6B501B-AD98-1B8B-E7A2-8659C886DBC4",
+		"card_id": "CcU-3855",
+		"business_id": "b-2494",
+		"lat_long": "-22.1578309632, -23.3589864448",
+		"timestamp": 1628637628000,
+		"amount": "$22.16",
+		"declined": false,
+		"product_ids": "73, 59, 3"
+	},
+	{
+		"id": "F2B3E645-2E6D-E891-9D05-33DBACE58DE4",
+		"card_id": "CcU-3862",
+		"business_id": "b-2494",
+		"lat_long": "-72.963250176, -164.4166023168",
+		"timestamp": 1620290478000,
+		"amount": "$267.52",
+		"declined": false,
+		"product_ids": "89, 19, 29"
+	},
+	{
+		"id": "72C62199-C17C-9E1F-8AD7-247B81D6D758",
+		"card_id": "CcU-3869",
+		"business_id": "b-2494",
+		"lat_long": "-19.506752, 57.8700445696",
+		"timestamp": 1631275677000,
+		"amount": "$352.24",
+		"declined": false,
+		"product_ids": "71, 19, 1, 89"
+	},
+	{
+		"id": "B6F30493-40C3-5391-8A92-5217B10C391A",
+		"card_id": "CcU-3876",
+		"business_id": "b-2494",
+		"lat_long": "-56.0850121728, -166.3325115392",
+		"timestamp": 1620853444000,
+		"amount": "$233.47",
+		"declined": false,
+		"product_ids": "67, 17, 97"
+	},
+	{
+		"id": "167DE938-B1C2-428D-FA3D-96A45CD41B22",
+		"card_id": "CcU-3883",
+		"business_id": "b-2494",
+		"lat_long": "67.3865081856, -63.199345152",
+		"timestamp": 1617015864000,
+		"amount": "$414.36",
+		"declined": false,
+		"product_ids": "7, 37, 2"
+	},
+	{
+		"id": "760EEFBC-3E63-3111-613B-ACC61E1B5136",
+		"card_id": "CcU-3890",
+		"business_id": "b-2494",
+		"lat_long": "-79.0219220992, 166.2489652224",
+		"timestamp": 1625170645000,
+		"amount": "$121.15",
+		"declined": false,
+		"product_ids": "61, 7, 17"
+	},
+	{
+		"id": "9BC43721-DD11-4539-AA84-D544F911251E",
+		"card_id": "CcU-3897",
+		"business_id": "b-2494",
+		"lat_long": "-34.8836578304, 81.0348561408",
+		"timestamp": 1627924389000,
+		"amount": "$384.10",
+		"declined": false,
+		"product_ids": "97, 19"
+	},
+	{
+		"id": "9DED76AE-FE36-ACC3-7377-AE98A6D95247",
+		"card_id": "CcU-3904",
+		"business_id": "b-2494",
+		"lat_long": "70.98758144, 113.6198137856",
+		"timestamp": 1644765218000,
+		"amount": "$408.58",
+		"declined": false,
+		"product_ids": "47, 61, 73"
+	},
+	{
+		"id": "842B6344-B4A2-050D-AA31-9A80432A7E37",
+		"card_id": "CcU-3911",
+		"business_id": "b-2494",
+		"lat_long": "-29.4618476544, 123.265885696",
+		"timestamp": 1642569954000,
+		"amount": "$202.94",
+		"declined": false,
+		"product_ids": "97, 29, 67"
+	},
+	{
+		"id": "D5E51BD3-4284-8097-8887-4A656C3992A8",
+		"card_id": "CcU-3918",
+		"business_id": "b-2494",
+		"lat_long": "-44.9373488128, 87.8009819136",
+		"timestamp": 1618587650000,
+		"amount": "$290.47",
+		"declined": false,
+		"product_ids": "1, 23"
+	},
+	{
+		"id": "5BAD8B6D-41B2-E757-6396-88D687C6413A",
+		"card_id": "CcU-3925",
+		"business_id": "b-2494",
+		"lat_long": "67.1291498496, -106.537156096",
+		"timestamp": 1645556488000,
+		"amount": "$420.95",
+		"declined": false,
+		"product_ids": "17, 41, 19, 43"
+	},
+	{
+		"id": "89398CE5-8912-EC57-7649-3F5394C7D795",
+		"card_id": "CcU-3932",
+		"business_id": "b-2494",
+		"lat_long": "86.4237585408, 98.323647488",
+		"timestamp": 1641516912000,
+		"amount": "$415.26",
+		"declined": false,
+		"product_ids": 97
+	},
+	{
+		"id": "370F6D3D-CB63-7335-8B43-15C876E2843B",
+		"card_id": "CcU-3939",
+		"business_id": "b-2494",
+		"lat_long": "-14.3864179712, 84.5977765888",
+		"timestamp": 1620008408000,
+		"amount": "$236.19",
+		"declined": false,
+		"product_ids": "11, 23"
+	},
+	{
+		"id": "AFE3C197-0B9C-985B-D146-571CD7BEF7FB",
+		"card_id": "CcU-3946",
+		"business_id": "b-2494",
+		"lat_long": "42.5804419072, 5.9831937024",
+		"timestamp": 1636291970000,
+		"amount": "$129.50",
+		"declined": false,
+		"product_ids": "41, 47, 73, 2"
+	},
+	{
+		"id": "BCCE274A-5F25-CF12-1566-492ED48D8211",
+		"card_id": "CcU-3953",
+		"business_id": "b-2494",
+		"lat_long": "4.9121705984, -146.5951644672",
+		"timestamp": 1623701069000,
+		"amount": "$462.74",
+		"declined": false,
+		"product_ids": "17, 11, 2"
+	},
+	{
+		"id": "FD89D51B-AE8D-77DC-E450-B8083FBD3187",
+		"card_id": "CcU-3960",
+		"business_id": "b-2494",
+		"lat_long": "8.012168192, -64.671543808",
+		"timestamp": 1647398105000,
+		"amount": "$200.72",
+		"declined": false,
+		"product_ids": "3, 2, 73, 1"
+	},
+	{
+		"id": "D662DF87-90B7-8C73-CD48-FA68399392C9",
+		"card_id": "CcU-3967",
+		"business_id": "b-2494",
+		"lat_long": "84.3342129152, 34.4783694848",
+		"timestamp": 1630855974000,
+		"amount": "$152.42",
+		"declined": false,
+		"product_ids": "97, 29, 13"
+	},
+	{
+		"id": "96EA5722-F3D4-FA2A-AC8C-865A5A72DBB5",
+		"card_id": "CcU-3974",
+		"business_id": "b-2494",
+		"lat_long": "-40.0514497536, 45.1180386304",
+		"timestamp": 1645637695000,
+		"amount": "$412.86",
+		"declined": false,
+		"product_ids": "83, 79"
+	},
+	{
+		"id": "D3C579AE-FA77-6234-9843-6DA39D6E329D",
+		"card_id": "CcU-3981",
+		"business_id": "b-2494",
+		"lat_long": "75.1068960768, -19.2164516864",
+		"timestamp": 1617062075000,
+		"amount": "$432.22",
+		"declined": false,
+		"product_ids": "7, 1"
+	},
+	{
+		"id": "B586C7E1-2C13-BFA1-77D2-5DD13CCEA898",
+		"card_id": "CcU-3988",
+		"business_id": "b-2494",
+		"lat_long": "-12.5372894208, -131.8916312064",
+		"timestamp": 1616772408000,
+		"amount": "$140.98",
+		"declined": false,
+		"product_ids": 83
+	},
+	{
+		"id": "E4794E32-196A-C67D-8759-18821CE66CE2",
+		"card_id": "CcU-3995",
+		"business_id": "b-2494",
+		"lat_long": "9.5001216, 28.035703296",
+		"timestamp": 1623911548000,
+		"amount": "$256.27",
+		"declined": false,
+		"product_ids": "43, 5, 83"
+	},
+	{
+		"id": "D69CE9B1-EA51-56DE-7A5A-496B1F63D112",
+		"card_id": "CcU-4002",
+		"business_id": "b-2494",
+		"lat_long": "2.1502221312, 174.5023266816",
+		"timestamp": 1633333920000,
+		"amount": "$339.88",
+		"declined": false,
+		"product_ids": "17, 43"
+	},
+	{
+		"id": "86AA189F-711F-E754-96B9-EB84B2305782",
+		"card_id": "CcU-4009",
+		"business_id": "b-2494",
+		"lat_long": "22.1641204736, -127.2512366592",
+		"timestamp": 1623563074000,
+		"amount": "$131.02",
+		"declined": false,
+		"product_ids": "3, 37, 61, 73"
+	},
+	{
+		"id": "467CC274-71A7-51F4-B58A-A77AADD25833",
+		"card_id": "CcU-4016",
+		"business_id": "b-2494",
+		"lat_long": "-2.3744678912, -28.7266646016",
+		"timestamp": 1624459860000,
+		"amount": "$339.62",
+		"declined": false,
+		"product_ids": "23, 1, 41"
+	},
+	{
+		"id": "B8B813FE-E89E-C046-17CB-94E9DEE597C1",
+		"card_id": "CcU-4023",
+		"business_id": "b-2494",
+		"lat_long": "-47.023819776, -3.2158969856",
+		"timestamp": 1615998203000,
+		"amount": "$479.00",
+		"declined": false,
+		"product_ids": 19
+	},
+	{
+		"id": "6964B59E-5B14-4E8E-88B6-D3D9A52E1418",
+		"card_id": "CcU-4030",
+		"business_id": "b-2494",
+		"lat_long": "62.5660785664, -24.1795437568",
+		"timestamp": 1616724541000,
+		"amount": "$327.56",
+		"declined": false,
+		"product_ids": "47, 3, 61"
+	},
+	{
+		"id": "693EED6A-CD1A-BC0B-B2C6-3DEE6A90290B",
+		"card_id": "CcU-4037",
+		"business_id": "b-2494",
+		"lat_long": "54.5161875456, 3.5203513344",
+		"timestamp": 1645884057000,
+		"amount": "$486.54",
+		"declined": false,
+		"product_ids": 67
+	},
+	{
+		"id": "E38DC6C5-1EE2-602D-2EA2-D2F39C771CDE",
+		"card_id": "CcU-4044",
+		"business_id": "b-2494",
+		"lat_long": "87.6079351808, 111.9427310592",
+		"timestamp": 1639948956000,
+		"amount": "$264.41",
+		"declined": false,
+		"product_ids": "67, 17, 83, 43"
+	},
+	{
+		"id": "4B517EB7-E52D-6A40-B47D-398B745EE183",
+		"card_id": "CcU-4051",
+		"business_id": "b-2494",
+		"lat_long": "-0.332823552, -95.5848506368",
+		"timestamp": 1628297095000,
+		"amount": "$451.94",
+		"declined": false,
+		"product_ids": 59
+	},
+	{
+		"id": "DD3945B9-8D77-14B9-C237-5B41A62ABDAC",
+		"card_id": "CcU-4058",
+		"business_id": "b-2494",
+		"lat_long": "-67.753375232, 133.4968464384",
+		"timestamp": 1634607097000,
+		"amount": "$63.77",
+		"declined": false,
+		"product_ids": 43
+	},
+	{
+		"id": "A1AACB02-187B-2BD6-6181-B215A93B1B39",
+		"card_id": "CcU-4065",
+		"business_id": "b-2494",
+		"lat_long": "-14.041371136, 179.950016512",
+		"timestamp": 1618997870000,
+		"amount": "$277.38",
+		"declined": false,
+		"product_ids": "79, 13, 2"
+	},
+	{
+		"id": "6A888487-255B-B546-907E-AC033DA2B841",
+		"card_id": "CcU-4072",
+		"business_id": "b-2494",
+		"lat_long": "-14.415736832, 97.4859517952",
+		"timestamp": 1629157395000,
+		"amount": "$440.09",
+		"declined": false,
+		"product_ids": "13, 17, 83"
+	},
+	{
+		"id": "D5DA371A-BD48-CFD9-37FC-A5CA45B97B5D",
+		"card_id": "CcU-4079",
+		"business_id": "b-2494",
+		"lat_long": "-12.4447255552, -139.669759488",
+		"timestamp": 1629012313000,
+		"amount": "$37.80",
+		"declined": false,
+		"product_ids": "7, 53"
+	},
+	{
+		"id": "B4E1213B-8B35-9D9A-DD7D-93EBC7BCD7FF",
+		"card_id": "CcU-4086",
+		"business_id": "b-2494",
+		"lat_long": "69.319622656, 86.2164658176",
+		"timestamp": 1633634207000,
+		"amount": "$492.25",
+		"declined": false,
+		"product_ids": "83, 17"
+	},
+	{
+		"id": "EE2D8157-D63E-6A91-A363-9CF68B530AD3",
+		"card_id": "CcU-4093",
+		"business_id": "b-2494",
+		"lat_long": "65.377804288, -12.2041329664",
+		"timestamp": 1619435466000,
+		"amount": "$293.94",
+		"declined": false,
+		"product_ids": "41, 1"
+	},
+	{
+		"id": "C367DD1C-B8F0-5870-E9CF-9ED298A60A6E",
+		"card_id": "CcU-4100",
+		"business_id": "b-2494",
+		"lat_long": "-6.6221838336, -29.677702144",
+		"timestamp": 1633076892000,
+		"amount": "$219.70",
+		"declined": false,
+		"product_ids": "43, 97"
+	},
+	{
+		"id": "3A4D2D8C-AC59-C2D2-2C36-EAAD62B32B26",
+		"card_id": "CcU-4107",
+		"business_id": "b-2494",
+		"lat_long": "-12.5159072768, 152.3139342336",
+		"timestamp": 1619723644000,
+		"amount": "$307.79",
+		"declined": false,
+		"product_ids": "61, 79"
+	},
+	{
+		"id": "C1A3EAD1-4BB7-343E-9542-DCB248FA39CE",
+		"card_id": "CcU-4114",
+		"business_id": "b-2494",
+		"lat_long": "70.707437056, -160.9202233344",
+		"timestamp": 1646035761000,
+		"amount": "$410.49",
+		"declined": false,
+		"product_ids": "11, 5"
+	},
+	{
+		"id": "663844BA-35BA-11C6-FDCD-598E898EEBE8",
+		"card_id": "CcU-4121",
+		"business_id": "b-2494",
+		"lat_long": "21.9626454016, 160.7323570176",
+		"timestamp": 1627634212000,
+		"amount": "$143.24",
+		"declined": false,
+		"product_ids": "2, 3"
+	},
+	{
+		"id": "F4BCAE41-3B8E-EA8D-9C24-466F7CEB9F9A",
+		"card_id": "CcU-4128",
+		"business_id": "b-2494",
+		"lat_long": "-78.8221324288, 87.0485080064",
+		"timestamp": 1620173202000,
+		"amount": "$182.01",
+		"declined": false,
+		"product_ids": "31, 61"
+	},
+	{
+		"id": "ABCD2C8D-21D8-2EBB-5A47-E0D7E7A5D64E",
+		"card_id": "CcU-4135",
+		"business_id": "b-2494",
+		"lat_long": "-24.693876736, 170.3354256384",
+		"timestamp": 1640361972000,
+		"amount": "$384.03",
+		"declined": false,
+		"product_ids": "31, 43, 73"
+	},
+	{
+		"id": "5640D665-31C1-9BE7-A745-AAAED5D53F72",
+		"card_id": "CcU-4142",
+		"business_id": "b-2494",
+		"lat_long": "-67.6170359808, -100.1424464896",
+		"timestamp": 1630670395000,
+		"amount": "$485.05",
+		"declined": false,
+		"product_ids": "43, 71"
+	},
+	{
+		"id": "A31B0B35-6658-6805-353E-88479B3E4FD7",
+		"card_id": "CcU-4149",
+		"business_id": "b-2494",
+		"lat_long": "19.22207744, 151.1219766272",
+		"timestamp": 1639792758000,
+		"amount": "$292.62",
+		"declined": false,
+		"product_ids": "79, 1, 61"
+	},
+	{
+		"id": "9E97F534-962D-5B43-9AAA-24533FB7EDBD",
+		"card_id": "CcU-4156",
+		"business_id": "b-2494",
+		"lat_long": "5.8776849408, 7.5937800192",
+		"timestamp": 1633648172000,
+		"amount": "$126.77",
+		"declined": false,
+		"product_ids": "19, 3, 31, 23"
+	},
+	{
+		"id": "1575F87A-E37B-DADD-554C-A99D8E7162A6",
+		"card_id": "CcU-4163",
+		"business_id": "b-2494",
+		"lat_long": "64.5744575488, -79.6300177408",
+		"timestamp": 1642120998000,
+		"amount": "$37.55",
+		"declined": false,
+		"product_ids": "61, 83, 37"
+	},
+	{
+		"id": "CEBC8755-77B1-722D-A899-E86B58B837BC",
+		"card_id": "CcU-4170",
+		"business_id": "b-2494",
+		"lat_long": "65.8541590528, 84.8687045632",
+		"timestamp": 1627292977000,
+		"amount": "$257.36",
+		"declined": false,
+		"product_ids": "97, 67, 19"
+	},
+	{
+		"id": "E2CCE289-2008-C783-997D-88991918CB38",
+		"card_id": "CcU-4177",
+		"business_id": "b-2494",
+		"lat_long": "-85.9752833024, -172.8164117504",
+		"timestamp": 1635279308000,
+		"amount": "$463.00",
+		"declined": false,
+		"product_ids": "89, 79, 47"
+	},
+	{
+		"id": "3B2D4464-1E9E-D3AE-D837-6E14C69B7BC8",
+		"card_id": "CcU-4184",
+		"business_id": "b-2494",
+		"lat_long": "2.1340623872, 163.50160128",
+		"timestamp": 1644287872000,
+		"amount": "$427.96",
+		"declined": false,
+		"product_ids": "23, 2"
+	},
+	{
+		"id": "A92944E6-9C59-141E-3F91-66B3C9EDCC31",
+		"card_id": "CcU-4191",
+		"business_id": "b-2302",
+		"lat_long": "-74.5228304384, 137.987551744",
+		"timestamp": 1638244882000,
+		"amount": "$95.69",
+		"declined": false,
+		"product_ids": "1, 29"
+	},
+	{
+		"id": "5CB0C889-D096-D327-ADE7-D111E1E6E2BC",
+		"card_id": "CcU-4198",
+		"business_id": "b-2302",
+		"lat_long": "-58.1208118272, 137.5055772672",
+		"timestamp": 1618662421000,
+		"amount": "$304.63",
+		"declined": false,
+		"product_ids": "17, 41, 67"
+	},
+	{
+		"id": "BD440E6D-FC5B-A13F-251E-B745CEB24F04",
+		"card_id": "CcU-4205",
+		"business_id": "b-2302",
+		"lat_long": "13.4323605504, 107.4682507264",
+		"timestamp": 1635527127000,
+		"amount": "$54.45",
+		"declined": false,
+		"product_ids": "73, 47, 19, 5"
+	},
+	{
+		"id": "B62D17A8-456A-A5B2-88DB-25314036778E",
+		"card_id": "CcU-4212",
+		"business_id": "b-2302",
+		"lat_long": "-34.586118144, -36.1162278912",
+		"timestamp": 1620861779000,
+		"amount": "$421.00",
+		"declined": false,
+		"product_ids": "31, 3, 2, 79"
+	},
+	{
+		"id": "87076D11-12E5-5E88-342E-BEDBF6EB1DED",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "-0.0344537088, 123.9923753984",
+		"timestamp": 1634538995000,
+		"amount": "$109.19",
+		"declined": false,
+		"product_ids": "41, 71, 17"
+	},
+	{
+		"id": "1B521826-5860-5A86-5364-6EB6A5CC21B7",
+		"card_id": "CcU-4226",
+		"business_id": "b-2302",
+		"lat_long": "-53.4613055488, 49.1483810816",
+		"timestamp": 1628908790000,
+		"amount": "$476.33",
+		"declined": false,
+		"product_ids": 7
+	},
+	{
+		"id": "5B60F39F-96CC-8C8D-EA01-E658063A8181",
+		"card_id": "CcU-4233",
+		"business_id": "b-2302",
+		"lat_long": "-85.003482624, -65.4374904832",
+		"timestamp": 1646027703000,
+		"amount": "$67.65",
+		"declined": false,
+		"product_ids": "61, 89, 3"
+	},
+	{
+		"id": "9C4B45E7-C159-18E5-DB43-9D6F897775D4",
+		"card_id": "CcU-4240",
+		"business_id": "b-2302",
+		"lat_long": "-4.9545081856, 6.0161166336",
+		"timestamp": 1640073757000,
+		"amount": "$183.11",
+		"declined": false,
+		"product_ids": "89, 1, 97"
+	},
+	{
+		"id": "2075B12D-69AB-7022-57BB-33ED49B72766",
+		"card_id": "CcU-4247",
+		"business_id": "b-2302",
+		"lat_long": "-9.0368222208, 88.9004780544",
+		"timestamp": 1644725249000,
+		"amount": "$87.44",
+		"declined": false,
+		"product_ids": "23, 19"
+	},
+	{
+		"id": "D39499A3-A9B6-36B9-2B8D-25AF340EDEEB",
+		"card_id": "CcU-4254",
+		"business_id": "b-2302",
+		"lat_long": "58.36253184, -138.1020307456",
+		"timestamp": 1636977721000,
+		"amount": "$393.51",
+		"declined": false,
+		"product_ids": 29
+	},
+	{
+		"id": "7EB174C8-192F-1A8D-2F7A-EF688EB5B597",
+		"card_id": "CcU-4261",
+		"business_id": "b-2302",
+		"lat_long": "34.2543087616, -144.1966852096",
+		"timestamp": 1628109027000,
+		"amount": "$144.75",
+		"declined": false,
+		"product_ids": "3, 53, 97"
+	},
+	{
+		"id": "A8E203DA-9A20-2DA7-29E3-D8559BBECC95",
+		"card_id": "CcU-4268",
+		"business_id": "b-2302",
+		"lat_long": "2.199264768, 75.1688940544",
+		"timestamp": 1643120207000,
+		"amount": "$355.63",
+		"declined": false,
+		"product_ids": "71, 83, 17"
+	},
+	{
+		"id": "E73908A2-5945-D5E9-AEC7-2C460A488864",
+		"card_id": "CcU-4275",
+		"business_id": "b-2302",
+		"lat_long": "46.574198272, -116.5175906304",
+		"timestamp": 1618067380000,
+		"amount": "$63.08",
+		"declined": false,
+		"product_ids": 23
+	},
+	{
+		"id": "3E495EC1-E1C5-26F1-0E3E-2D13EAA2593A",
+		"card_id": "CcU-4282",
+		"business_id": "b-2302",
+		"lat_long": "-50.5725360128, -172.5083481088",
+		"timestamp": 1646317755000,
+		"amount": "$417.70",
+		"declined": false,
+		"product_ids": "31, 97, 17, 1"
+	},
+	{
+		"id": "E2DEC4AA-E02F-8829-DE30-795881675C52",
+		"card_id": "CcU-4289",
+		"business_id": "b-2302",
+		"lat_long": "-10.0373346304, -174.3965664256",
+		"timestamp": 1620353200000,
+		"amount": "$51.01",
+		"declined": false,
+		"product_ids": "59, 5, 43, 83"
+	},
+	{
+		"id": "E3911BE6-151C-5FD7-C730-7F69B7841C7B",
+		"card_id": "CcU-4296",
+		"business_id": "b-2302",
+		"lat_long": "25.71512832, -48.2123001856",
+		"timestamp": 1623336289000,
+		"amount": "$153.33",
+		"declined": false,
+		"product_ids": "11, 73"
+	},
+	{
+		"id": "C9F594B6-A163-7553-D216-DEAC68EAB680",
+		"card_id": "CcU-4303",
+		"business_id": "b-2302",
+		"lat_long": "36.1253275648, 91.7643006976",
+		"timestamp": 1627777083000,
+		"amount": "$300.77",
+		"declined": false,
+		"product_ids": 5
+	},
+	{
+		"id": "186F53DE-DE27-B1FE-B82F-15B61CEB7726",
+		"card_id": "CcU-4310",
+		"business_id": "b-2302",
+		"lat_long": "-72.7447825408, 36.6211337216",
+		"timestamp": 1640006025000,
+		"amount": "$238.16",
+		"declined": false,
+		"product_ids": "17, 37, 31"
+	},
+	{
+		"id": "E2C94327-62EE-9EF1-4D62-B861858AC425",
+		"card_id": "CcU-4317",
+		"business_id": "b-2302",
+		"lat_long": "40.8484386816, 112.7596781568",
+		"timestamp": 1615949749000,
+		"amount": "$36.83",
+		"declined": false,
+		"product_ids": "13, 43, 47, 73"
+	},
+	{
+		"id": "EAE19DC1-C847-6D79-673D-00E7696AC336",
+		"card_id": "CcU-4324",
+		"business_id": "b-2302",
+		"lat_long": "6.396744192, -6.7752971264",
+		"timestamp": 1618455322000,
+		"amount": "$69.98",
+		"declined": false,
+		"product_ids": 1
+	},
+	{
+		"id": "FD9CBCCD-8E1E-8DA1-4606-7E3A6F3A5A65",
+		"card_id": "CcU-4331",
+		"business_id": "b-2302",
+		"lat_long": "-77.8604531712, -172.3457293312",
+		"timestamp": 1623584477000,
+		"amount": "$42.32",
+		"declined": false,
+		"product_ids": 37
+	},
+	{
+		"id": "263035AA-8758-E413-8CC4-6D8F81BBF899",
+		"card_id": "CcU-4338",
+		"business_id": "b-2302",
+		"lat_long": "36.6100421632, 83.19525888",
+		"timestamp": 1624274581000,
+		"amount": "$499.23",
+		"declined": false,
+		"product_ids": "53, 31, 83, 29"
+	},
+	{
+		"id": "1753A288-9FC1-52E6-5C39-A1FFB97B0D3A",
+		"card_id": "CcU-4345",
+		"business_id": "b-2302",
+		"lat_long": "57.9421920256, -114.72918272",
+		"timestamp": 1629178328000,
+		"amount": "$497.84",
+		"declined": false,
+		"product_ids": "1, 13, 89, 31"
+	},
+	{
+		"id": "59BC588F-9D74-8B8A-A11D-D604A8C086F2",
+		"card_id": "CcU-4352",
+		"business_id": "b-2302",
+		"lat_long": "61.4686811136, -29.7213831168",
+		"timestamp": 1616708898000,
+		"amount": "$89.22",
+		"declined": false,
+		"product_ids": 7
+	},
+	{
+		"id": "0A476ED9-0C13-1962-F87B-D3563924B539",
+		"card_id": "CcU-4359",
+		"business_id": "b-2302",
+		"lat_long": "-56.490077696, 114.8012315648",
+		"timestamp": 1645907634000,
+		"amount": "$430.49",
+		"declined": false,
+		"product_ids": "29, 41, 11"
+	},
+	{
+		"id": "122DC333-E19F-D629-DCD8-9C54CF1EBB9A",
+		"card_id": "CcU-4366",
+		"business_id": "b-2302",
+		"lat_long": "29.6372365312, -166.1728714752",
+		"timestamp": 1623218654000,
+		"amount": "$172.01",
+		"declined": false,
+		"product_ids": "1, 67, 19"
+	},
+	{
+		"id": "66179D5C-9B8D-5E13-9249-BDC1A35406FC",
+		"card_id": "CcU-4373",
+		"business_id": "b-2302",
+		"lat_long": "-7.4683462656, 108.336211456",
+		"timestamp": 1632747055000,
+		"amount": "$433.66",
+		"declined": false,
+		"product_ids": "17, 43"
+	},
+	{
+		"id": "A9225721-1D92-9A16-A4B4-751134C5E702",
+		"card_id": "CcU-4380",
+		"business_id": "b-2302",
+		"lat_long": "86.4803894272, 59.8234584064",
+		"timestamp": 1639327206000,
+		"amount": "$390.10",
+		"declined": false,
+		"product_ids": "41, 79"
+	},
+	{
+		"id": "A14C4361-9AC9-A3E7-7B1B-73BA6A3D23D7",
+		"card_id": "CcU-4387",
+		"business_id": "b-2302",
+		"lat_long": "35.2215217152, -66.9265099776",
+		"timestamp": 1618141908000,
+		"amount": "$125.91",
+		"declined": false,
+		"product_ids": "89, 2, 97, 37"
+	},
+	{
+		"id": "B98FC9AE-1B20-44D3-2C59-EC4D2FE9AE17",
+		"card_id": "CcU-4394",
+		"business_id": "b-2302",
+		"lat_long": "-24.9155170304, -107.6747167744",
+		"timestamp": 1634744405000,
+		"amount": "$328.64",
+		"declined": false,
+		"product_ids": 43
+	},
+	{
+		"id": "D271975D-77F6-485C-4E2D-C43DA27AB787",
+		"card_id": "CcU-4401",
+		"business_id": "b-2302",
+		"lat_long": "71.20233984, 164.4390736896",
+		"timestamp": 1636808002000,
+		"amount": "$132.09",
+		"declined": false,
+		"product_ids": "7, 59, 2"
+	},
+	{
+		"id": "E658A8A9-3C3A-3D50-6F5C-2BA9F41DB491",
+		"card_id": "CcU-4408",
+		"business_id": "b-2302",
+		"lat_long": "55.016610304, 60.2907613184",
+		"timestamp": 1635503167000,
+		"amount": "$273.84",
+		"declined": false,
+		"product_ids": "2, 3"
+	},
+	{
+		"id": "1C3B3CC4-B919-7616-6A57-EEBDD7B7B68B",
+		"card_id": "CcU-4415",
+		"business_id": "b-2302",
+		"lat_long": "81.1736996864, 62.8834658304",
+		"timestamp": 1632758854000,
+		"amount": "$462.35",
+		"declined": false,
+		"product_ids": "61, 67, 29"
+	},
+	{
+		"id": "65F73281-0AC6-CE48-6667-1C8E66159728",
+		"card_id": "CcU-4422",
+		"business_id": "b-2302",
+		"lat_long": "-12.119653888, -5.9288523776",
+		"timestamp": 1638679591000,
+		"amount": "$329.72",
+		"declined": false,
+		"product_ids": "43, 37, 89, 7"
+	},
+	{
+		"id": "802BBC0F-2B3E-0F18-258E-D687B9DDB776",
+		"card_id": "CcU-4429",
+		"business_id": "b-2302",
+		"lat_long": "-54.5770277888, 111.7113673728",
+		"timestamp": 1621364730000,
+		"amount": "$245.96",
+		"declined": false,
+		"product_ids": "41, 71"
+	},
+	{
+		"id": "442713DA-4BE6-132A-51B8-AC44EA6D5839",
+		"card_id": "CcU-4436",
+		"business_id": "b-2302",
+		"lat_long": "-22.3293553664, -22.018409472",
+		"timestamp": 1643476379000,
+		"amount": "$59.67",
+		"declined": false,
+		"product_ids": "5, 17"
+	},
+	{
+		"id": "65A7C3AC-FFFC-3495-95B1-52C38507E523",
+		"card_id": "CcU-4443",
+		"business_id": "b-2302",
+		"lat_long": "-78.239800832, -9.2237047808",
+		"timestamp": 1638977370000,
+		"amount": "$387.27",
+		"declined": false,
+		"product_ids": "83, 71, 2"
+	},
+	{
+		"id": "2585891B-C4C7-075E-358B-B575339E5177",
+		"card_id": "CcU-4450",
+		"business_id": "b-2302",
+		"lat_long": "32.9171156992, -40.6058676224",
+		"timestamp": 1629783156000,
+		"amount": "$253.49",
+		"declined": false,
+		"product_ids": "79, 19, 53"
+	},
+	{
+		"id": "EB142E61-B4EC-3423-4FE9-6FB2151A3DB5",
+		"card_id": "CcU-4457",
+		"business_id": "b-2302",
+		"lat_long": "-63.1013291008, -91.9647295488",
+		"timestamp": 1644500675000,
+		"amount": "$54.35",
+		"declined": false,
+		"product_ids": "67, 41, 89"
+	},
+	{
+		"id": "E69C6E04-0063-3E7C-0676-D1AFC1536B5C",
+		"card_id": "CcU-4464",
+		"business_id": "b-2302",
+		"lat_long": "-47.0837728256, -105.7000973312",
+		"timestamp": 1622312864000,
+		"amount": "$203.60",
+		"declined": false,
+		"product_ids": "29, 3, 71"
+	},
+	{
+		"id": "5BA81852-2D60-169A-805B-E1FA120E9683",
+		"card_id": "CcU-4471",
+		"business_id": "b-2302",
+		"lat_long": "7.302035456, 72.5522111488",
+		"timestamp": 1647178654000,
+		"amount": "$164.32",
+		"declined": false,
+		"product_ids": 3
+	},
+	{
+		"id": "5E948202-34BC-F107-29DC-306A2C491A87",
+		"card_id": "CcU-4478",
+		"business_id": "b-2302",
+		"lat_long": "78.9251759104, -137.821539328",
+		"timestamp": 1631370434000,
+		"amount": "$133.80",
+		"declined": false,
+		"product_ids": "41, 31"
+	},
+	{
+		"id": "7DDED3A7-4845-57C5-8152-30D7376C10DF",
+		"card_id": "CcU-4485",
+		"business_id": "b-2302",
+		"lat_long": "83.6028908544, 50.051319808",
+		"timestamp": 1641645225000,
+		"amount": "$71.47",
+		"declined": false,
+		"product_ids": "59, 5, 2"
+	},
+	{
+		"id": "33525F74-4864-C19F-7D23-A8D78668B7C4",
+		"card_id": "CcU-4492",
+		"business_id": "b-2302",
+		"lat_long": "10.310537216, 13.9999141888",
+		"timestamp": 1639570923000,
+		"amount": "$423.71",
+		"declined": false,
+		"product_ids": 29
+	},
+	{
+		"id": "B03C0BC7-28F4-D474-8928-523B19A93E7C",
+		"card_id": "CcU-4499",
+		"business_id": "b-2302",
+		"lat_long": "89.0823192576, -97.6282752",
+		"timestamp": 1624869574000,
+		"amount": "$397.29",
+		"declined": false,
+		"product_ids": "1, 59, 29, 43"
+	},
+	{
+		"id": "9D4AB77C-9F51-FD95-EAB4-A37163E6D3E2",
+		"card_id": "CcU-4506",
+		"business_id": "b-2302",
+		"lat_long": "-89.1289788416, -103.2163822592",
+		"timestamp": 1619663149000,
+		"amount": "$111.51",
+		"declined": false,
+		"product_ids": 23
+	},
+	{
+		"id": "A82B7A4A-9176-A612-248B-6BD8D384766D",
+		"card_id": "CcU-4513",
+		"business_id": "b-2302",
+		"lat_long": "-54.0966578176, -44.9177142272",
+		"timestamp": 1632965985000,
+		"amount": "$436.59",
+		"declined": false,
+		"product_ids": 53
+	},
+	{
+		"id": "135267BA-2E7D-957C-C42C-6450A2B3ED54",
+		"card_id": "CcU-4520",
+		"business_id": "b-2302",
+		"lat_long": "20.672424448, 14.9732265984",
+		"timestamp": 1640810303000,
+		"amount": "$17.97",
+		"declined": false,
+		"product_ids": "11, 71"
+	},
+	{
+		"id": "162C7E78-2B6B-7971-A1E4-D2124E732451",
+		"card_id": "CcU-4527",
+		"business_id": "b-2302",
+		"lat_long": "-69.138142208, 58.001686016",
+		"timestamp": 1618120758000,
+		"amount": "$231.26",
+		"declined": false,
+		"product_ids": 89
+	},
+	{
+		"id": "C0343DE8-E34C-4532-BE22-2F2E6BD34D73",
+		"card_id": "CcU-4534",
+		"business_id": "b-2302",
+		"lat_long": "-36.7257500672, 74.4537163776",
+		"timestamp": 1628081782000,
+		"amount": "$253.23",
+		"declined": false,
+		"product_ids": "5, 13, 67"
+	},
+	{
+		"id": "5AB20418-79A8-DF6C-D446-BCF5A48CDEDB",
+		"card_id": "CcU-4541",
+		"business_id": "b-2302",
+		"lat_long": "65.1785832448, -151.4541513728",
+		"timestamp": 1630388669000,
+		"amount": "$474.70",
+		"declined": false,
+		"product_ids": 13
+	},
+	{
+		"id": "D52157FC-58FC-68E6-91D4-CCB11178F8AC",
+		"card_id": "CcU-4548",
+		"business_id": "b-2302",
+		"lat_long": "14.8365075456, 71.2127867904",
+		"timestamp": 1642560309000,
+		"amount": "$116.94",
+		"declined": false,
+		"product_ids": "19, 1, 29, 97"
+	},
+	{
+		"id": "43CDD853-0EC5-439D-8A4E-0D811A4A83BD",
+		"card_id": "CcU-4555",
+		"business_id": "b-2278",
+		"lat_long": "-56.7251364864, 2.8682094592",
+		"timestamp": 1638744024000,
+		"amount": "$58.28",
+		"declined": false,
+		"product_ids": "17, 67"
+	},
+	{
+		"id": "1EA2B262-D507-AD14-4374-4D532967113F",
+		"card_id": "CcU-4562",
+		"business_id": "b-2278",
+		"lat_long": "-45.6339976192, 175.5616202752",
+		"timestamp": 1628076087000,
+		"amount": "$274.15",
+		"declined": false,
+		"product_ids": "23, 31, 1"
+	},
+	{
+		"id": "A095D2D2-BE1A-6673-3369-5951992C967B",
+		"card_id": "CcU-4569",
+		"business_id": "b-2278",
+		"lat_long": "75.4757128192, -160.2197127168",
+		"timestamp": 1644055614000,
+		"amount": "$37.99",
+		"declined": false,
+		"product_ids": "2, 71, 23, 13"
+	},
+	{
+		"id": "FAC76A80-8448-69AA-E892-426C2F12621C",
+		"card_id": "CcU-4576",
+		"business_id": "b-2278",
+		"lat_long": "-70.6475616256, 178.5941755904",
+		"timestamp": 1622409055000,
+		"amount": "$304.95",
+		"declined": false,
+		"product_ids": "79, 41, 7"
+	},
+	{
+		"id": "85362E53-765A-FFD1-585C-18DA6D644B38",
+		"card_id": "CcU-4583",
+		"business_id": "b-2278",
+		"lat_long": "8.988906496, -78.7205070848",
+		"timestamp": 1622324830000,
+		"amount": "$409.04",
+		"declined": false,
+		"product_ids": "79, 61, 5"
+	},
+	{
+		"id": "75DB5267-8C65-77D2-26BA-F5F3BD39C874",
+		"card_id": "CcU-4590",
+		"business_id": "b-2278",
+		"lat_long": "-57.9268975616, -143.8641864704",
+		"timestamp": 1626979119000,
+		"amount": "$237.34",
+		"declined": false,
+		"product_ids": "19, 79, 97"
+	},
+	{
+		"id": "E18C0E42-B95F-11EC-4A78-4EECBF79E8B6",
+		"card_id": "CcU-4597",
+		"business_id": "b-2278",
+		"lat_long": "30.5604591616, -37.0456906752",
+		"timestamp": 1642485185000,
+		"amount": "$238.78",
+		"declined": false,
+		"product_ids": "43, 73"
+	},
+	{
+		"id": "A89CF3B1-ABAB-63E4-220B-3549EB570544",
+		"card_id": "CcU-4604",
+		"business_id": "b-2278",
+		"lat_long": "85.0343559168, -15.5086221312",
+		"timestamp": 1618525622000,
+		"amount": "$252.96",
+		"declined": false,
+		"product_ids": "83, 73"
+	},
+	{
+		"id": "69775872-8509-62C6-FCBC-ECFB6D7D847F",
+		"card_id": "CcU-4611",
+		"business_id": "b-2278",
+		"lat_long": "53.4861713408, 161.9745810432",
+		"timestamp": 1624491001000,
+		"amount": "$352.85",
+		"declined": false,
+		"product_ids": "3, 53, 31"
+	},
+	{
+		"id": "649EF79F-4A7E-BCE8-07EF-243030BE5787",
+		"card_id": "CcU-4618",
+		"business_id": "b-2278",
+		"lat_long": "-87.8011629568, 18.2674522112",
+		"timestamp": 1618736338000,
+		"amount": "$89.18",
+		"declined": false,
+		"product_ids": "53, 47"
+	},
+	{
+		"id": "D1573887-B075-C061-BEE5-FDEB8AC7B74F",
+		"card_id": "CcU-4625",
+		"business_id": "b-2278",
+		"lat_long": "10.3428340736, 62.4797922304",
+		"timestamp": 1634018597000,
+		"amount": "$93.78",
+		"declined": false,
+		"product_ids": "61, 37, 41"
+	},
+	{
+		"id": "1BC3AC28-04FB-7015-D93A-422C9A68528D",
+		"card_id": "CcU-4632",
+		"business_id": "b-2278",
+		"lat_long": "-39.9209819136, -149.1246845952",
+		"timestamp": 1616343762000,
+		"amount": "$208.47",
+		"declined": false,
+		"product_ids": "61, 23"
+	},
+	{
+		"id": "BEC27123-5319-528A-52CB-33933AEC1724",
+		"card_id": "CcU-4639",
+		"business_id": "b-2278",
+		"lat_long": "1.9701321728, 16.1399936",
+		"timestamp": 1639369221000,
+		"amount": "$368.86",
+		"declined": false,
+		"product_ids": "67, 59"
+	},
+	{
+		"id": "4A0149B2-B1A1-D766-49A1-86BA9517EA07",
+		"card_id": "CcU-4646",
+		"business_id": "b-2278",
+		"lat_long": "33.8914860032, 139.210804224",
+		"timestamp": 1625113756000,
+		"amount": "$47.53",
+		"declined": false,
+		"product_ids": "53, 47"
+	},
+	{
+		"id": "3E18E43B-892B-F520-6B38-3A177E27BD19",
+		"card_id": "CcU-4653",
+		"business_id": "b-2278",
+		"lat_long": "-45.8382992384, -26.5504492544",
+		"timestamp": 1624301920000,
+		"amount": "$267.84",
+		"declined": false,
+		"product_ids": "59, 43, 13"
+	},
+	{
+		"id": "70152729-0350-F99C-D057-EF42857AA849",
+		"card_id": "CcU-4660",
+		"business_id": "b-2278",
+		"lat_long": "52.4175223808, 42.5419045888",
+		"timestamp": 1617417966000,
+		"amount": "$163.79",
+		"declined": false,
+		"product_ids": "73, 2"
+	},
+	{
+		"id": "6434A591-C914-3A5A-A9B5-689653768EC8",
+		"card_id": "CcU-4667",
+		"business_id": "b-2278",
+		"lat_long": "58.572697088, -113.8540914688",
+		"timestamp": 1621871902000,
+		"amount": "$125.08",
+		"declined": false,
+		"product_ids": 67
+	},
+	{
+		"id": "1A6CECFB-2E3A-65A3-72D9-2FDB58A1E4BA",
+		"card_id": "CcU-4674",
+		"business_id": "b-2278",
+		"lat_long": "-55.9322806272, 60.4475373568",
+		"timestamp": 1625301306000,
+		"amount": "$200.04",
+		"declined": false,
+		"product_ids": "7, 23, 2, 1"
+	},
+	{
+		"id": "EA06C211-5A86-C9A8-7CA3-C84D266D4B62",
+		"card_id": "CcU-4681",
+		"business_id": "b-2278",
+		"lat_long": "-26.0517435392, 33.9876397056",
+		"timestamp": 1619129672000,
+		"amount": "$478.87",
+		"declined": false,
+		"product_ids": "13, 71, 37, 29"
+	},
+	{
+		"id": "E4F6CCEB-CBC0-67F9-D8FA-84417070C642",
+		"card_id": "CcU-4688",
+		"business_id": "b-2278",
+		"lat_long": "34.0577770496, -129.3839244288",
+		"timestamp": 1625716040000,
+		"amount": "$350.28",
+		"declined": false,
+		"product_ids": 53
+	},
+	{
+		"id": "756BC84B-7652-561D-07A6-E6A5612825D3",
+		"card_id": "CcU-4695",
+		"business_id": "b-2278",
+		"lat_long": "65.2379388928, 41.6176866304",
+		"timestamp": 1617728782000,
+		"amount": "$183.60",
+		"declined": false,
+		"product_ids": 5
+	},
+	{
+		"id": "B7626077-B74D-45A8-E3EB-EF331AA53ED8",
+		"card_id": "CcU-4702",
+		"business_id": "b-2278",
+		"lat_long": "56.7575719936, -29.4415505408",
+		"timestamp": 1637633817000,
+		"amount": "$400.52",
+		"declined": false,
+		"product_ids": 79
+	},
+	{
+		"id": "CA515AD3-5A34-6966-073E-1D231CE56678",
+		"card_id": "CcU-4709",
+		"business_id": "b-2278",
+		"lat_long": "80.0508132352, -167.602161664",
+		"timestamp": 1647361477000,
+		"amount": "$25.78",
+		"declined": false,
+		"product_ids": 2
+	},
+	{
+		"id": "1ED7A10C-3D78-18C5-483D-8FFE72CB8D58",
+		"card_id": "CcU-4716",
+		"business_id": "b-2278",
+		"lat_long": "37.5167505408, 178.9231364096",
+		"timestamp": 1644753763000,
+		"amount": "$432.55",
+		"declined": false,
+		"product_ids": "3, 43"
+	},
+	{
+		"id": "AA1C1C48-FF62-DE8E-AF15-B183B5BD166D",
+		"card_id": "CcU-4723",
+		"business_id": "b-2278",
+		"lat_long": "66.2813668352, -144.300432384",
+		"timestamp": 1625088310000,
+		"amount": "$458.68",
+		"declined": false,
+		"product_ids": "71, 17, 3"
+	},
+	{
+		"id": "F55B3CE1-3379-E0BF-5AB9-6F4CC2C5479C",
+		"card_id": "CcU-4730",
+		"business_id": "b-2278",
+		"lat_long": "-7.87636992, -110.4244130816",
+		"timestamp": 1618337958000,
+		"amount": "$227.05",
+		"declined": false,
+		"product_ids": 37
+	},
+	{
+		"id": "6D891688-E9DE-C3CC-6AE0-B171C08A37D7",
+		"card_id": "CcU-4737",
+		"business_id": "b-2278",
+		"lat_long": "44.8151845888, -68.0799684608",
+		"timestamp": 1635911602000,
+		"amount": "$384.48",
+		"declined": false,
+		"product_ids": "61, 89, 37, 47"
+	},
+	{
+		"id": "B0597154-5E41-5A87-4B0E-A8E57353C5E8",
+		"card_id": "CcU-4744",
+		"business_id": "b-2278",
+		"lat_long": "80.5111172096, -14.0077060096",
+		"timestamp": 1634823472000,
+		"amount": "$320.52",
+		"declined": false,
+		"product_ids": 41
+	},
+	{
+		"id": "5458A436-88C5-7CBD-CEB6-8A4545B12CCA",
+		"card_id": "CcU-4751",
+		"business_id": "b-2278",
+		"lat_long": "48.1912762368, -146.1472749568",
+		"timestamp": 1644146206000,
+		"amount": "$273.05",
+		"declined": false,
+		"product_ids": "1, 29, 23, 13"
+	},
+	{
+		"id": "BF10E3BA-63C3-FAC2-BAE8-D82186EC7A9A",
+		"card_id": "CcU-4758",
+		"business_id": "b-2278",
+		"lat_long": "54.7725978624, -147.2525985792",
+		"timestamp": 1617124894000,
+		"amount": "$283.97",
+		"declined": false,
+		"product_ids": "47, 67, 53"
+	},
+	{
+		"id": "59C85B8E-4CE0-B66B-4B5D-3A557324E6A9",
+		"card_id": "CcU-4765",
+		"business_id": "b-2278",
+		"lat_long": "-21.4987478016, 148.8845569024",
+		"timestamp": 1620063534000,
+		"amount": "$30.15",
+		"declined": false,
+		"product_ids": "41, 13, 37, 7"
+	},
+	{
+		"id": "3A3B4A86-14FC-D9B3-164A-21542B509E1D",
+		"card_id": "CcU-4772",
+		"business_id": "b-2278",
+		"lat_long": "85.5250548736, 116.1088269312",
+		"timestamp": 1620945652000,
+		"amount": "$360.05",
+		"declined": false,
+		"product_ids": "19, 73"
+	},
+	{
+		"id": "E308729C-4A62-08C9-45C6-58C9479D4626",
+		"card_id": "CcU-4779",
+		"business_id": "b-2278",
+		"lat_long": "-55.6834507776, 74.7848943616",
+		"timestamp": 1629054581000,
+		"amount": "$224.62",
+		"declined": false,
+		"product_ids": "89, 1"
+	},
+	{
+		"id": "9C11DE85-F985-D119-4664-15D448C5E913",
+		"card_id": "CcU-4786",
+		"business_id": "b-2278",
+		"lat_long": "3.4505225216, -128.5296928768",
+		"timestamp": 1639408931000,
+		"amount": "$56.27",
+		"declined": false,
+		"product_ids": "19, 29, 13"
+	},
+	{
+		"id": "F233E386-5A74-63B3-8111-09FC9BA38011",
+		"card_id": "CcU-4793",
+		"business_id": "b-2278",
+		"lat_long": "23.728344576, -175.377351168",
+		"timestamp": 1624316495000,
+		"amount": "$146.34",
+		"declined": false,
+		"product_ids": "53, 11, 37"
+	},
+	{
+		"id": "B86A5793-A474-8B73-EB69-63FDD4809AC4",
+		"card_id": "CcU-4800",
+		"business_id": "b-2278",
+		"lat_long": "38.4503477248, -5.7679593472",
+		"timestamp": 1643910226000,
+		"amount": "$210.54",
+		"declined": false,
+		"product_ids": "41, 53, 2"
+	},
+	{
+		"id": "5E47EB85-1F76-1853-839F-94FCF9A95700",
+		"card_id": "CcU-4807",
+		"business_id": "b-2278",
+		"lat_long": "-59.339348992, 15.3332599808",
+		"timestamp": 1616702212000,
+		"amount": "$425.41",
+		"declined": false,
+		"product_ids": "19, 11, 61"
+	},
+	{
+		"id": "17B43AB2-DD7D-96C4-2C7D-1989F119A1CB",
+		"card_id": "CcU-4814",
+		"business_id": "b-2278",
+		"lat_long": "5.4180440064, -6.7093221376",
+		"timestamp": 1630180912000,
+		"amount": "$494.17",
+		"declined": false,
+		"product_ids": "29, 11"
+	},
+	{
+		"id": "9B7D1DBC-1A36-4DBA-BB0F-CD7616DE3C4B",
+		"card_id": "CcU-4821",
+		"business_id": "b-2278",
+		"lat_long": "23.5212214272, 156.4986651648",
+		"timestamp": 1624170693000,
+		"amount": "$256.10",
+		"declined": false,
+		"product_ids": "73, 53, 79"
+	},
+	{
+		"id": "74AAB47D-9528-DAF4-D7A8-AC94C74F6997",
+		"card_id": "CcU-4828",
+		"business_id": "b-2278",
+		"lat_long": "7.9658769408, -133.5597923328",
+		"timestamp": 1637103559000,
+		"amount": "$163.51",
+		"declined": false,
+		"product_ids": 97
+	},
+	{
+		"id": "E1880EA8-64B2-9C7C-E626-D159343555D8",
+		"card_id": "CcU-4835",
+		"business_id": "b-2278",
+		"lat_long": "85.626289664, -96.1839771648",
+		"timestamp": 1644918880000,
+		"amount": "$248.61",
+		"declined": false,
+		"product_ids": "47, 71, 23"
+	},
+	{
+		"id": "71D61251-11D7-99AE-4465-8E21777B5B91",
+		"card_id": "CcU-4842",
+		"business_id": "b-2278",
+		"lat_long": "14.7102070784, 30.8801319936",
+		"timestamp": 1635797527000,
+		"amount": "$174.55",
+		"declined": false,
+		"product_ids": 59
+	},
+	{
+		"id": "A483C535-9E4F-6D72-D568-B496DAB0DE56",
+		"card_id": "CcU-4849",
+		"business_id": "b-2278",
+		"lat_long": "32.5816444928, -44.8112001024",
+		"timestamp": 1645166235000,
+		"amount": "$418.45",
+		"declined": false,
+		"product_ids": "71, 73"
+	},
+	{
+		"id": "9A58B3E0-1E27-94E2-6487-9A63F07BC833",
+		"card_id": "CcU-4856",
+		"business_id": "b-2278",
+		"lat_long": "20.2527449088, -82.4442075136",
+		"timestamp": 1628647349000,
+		"amount": "$380.79",
+		"declined": false,
+		"product_ids": "17, 97"
+	},
+	{
+		"id": "D616D488-341E-C82E-5137-12B8B0E79C77",
+		"card_id": "CcU-4849",
+		"business_id": "b-2278",
+		"lat_long": "69.8381187072, -145.1045574656",
+		"timestamp": 1634747306000,
+		"amount": "$312.47",
+		"declined": false,
+		"product_ids": "79, 73, 41"
+	},
+	{
+		"id": "873581C1-A079-1277-694F-4E735E854AC9",
+		"card_id": "CcU-4849",
+		"business_id": "b-2278",
+		"lat_long": "-57.3571550208, 97.0858791936",
+		"timestamp": 1643028380000,
+		"amount": "$23.86",
+		"declined": false,
+		"product_ids": "2, 47, 53, 17"
+	},
+	{
+		"id": "E95B26BA-2466-6ECB-81D4-57CB6225AB78",
+		"card_id": "CcU-4849",
+		"business_id": "b-2278",
+		"lat_long": "-4.2030951424, 94.9817198592",
+		"timestamp": 1635442431000,
+		"amount": "$169.52",
+		"declined": false,
+		"product_ids": "3, 83"
+	},
+	{
+		"id": "1822A630-4B6E-DABC-2576-6EC107FA15C2",
+		"card_id": "CcU-4849",
+		"business_id": "b-2278",
+		"lat_long": "-32.3809166336, -0.82221824",
+		"timestamp": 1631836609000,
+		"amount": "$140.31",
+		"declined": false,
+		"product_ids": "23, 67, 97"
+	},
+	{
+		"id": "6EECB866-887D-FC95-E094-45DB4943B515",
+		"card_id": "CcU-4849",
+		"business_id": "b-2278",
+		"lat_long": "-56.405589504, 108.5547329536",
+		"timestamp": 1624341031000,
+		"amount": "$424.78",
+		"declined": false,
+		"product_ids": "43, 79, 23"
+	},
+	{
+		"id": "8D5C52B9-42BE-480C-359E-CE36E1916D19",
+		"card_id": "CcU-4849",
+		"business_id": "b-2278",
+		"lat_long": "8.7060519936, -112.2445059072",
+		"timestamp": 1634458613000,
+		"amount": "$278.51",
+		"declined": false,
+		"product_ids": "61, 13, 2"
+	},
+	{
+		"id": "6987DFDB-C49A-A1C3-7236-4258332C794C",
+		"card_id": "CcU-4849",
+		"business_id": "b-2278",
+		"lat_long": "2.3003321344, 23.0485926912",
+		"timestamp": 1640043782000,
+		"amount": "$384.05",
+		"declined": false,
+		"product_ids": "53, 59, 43"
+	},
+	{
+		"id": "35F284A2-5028-6DB8-A631-78B7981716C2",
+		"card_id": "CcU-4849",
+		"business_id": "b-2278",
+		"lat_long": "-41.6612861952, -178.0365012992",
+		"timestamp": 1641842845000,
+		"amount": "$167.36",
+		"declined": false,
+		"product_ids": "37, 67, 31"
+	},
+	{
+		"id": "3B37BE91-420F-4361-238A-3C5A42B998F7",
+		"card_id": "CcU-4849",
+		"business_id": "b-2278",
+		"lat_long": "7.1741326336, -0.9980841984",
+		"timestamp": 1646187702000,
+		"amount": "$154.94",
+		"declined": false,
+		"product_ids": 37
+	},
+	{
+		"id": "BED35659-8521-645B-95C5-F58B732FA6C0",
+		"card_id": "CcU-4849",
+		"business_id": "b-2278",
+		"lat_long": "36.8500596736, -89.3791632384",
+		"timestamp": 1627826412000,
+		"amount": "$80.34",
+		"declined": false,
+		"product_ids": "83, 53, 97"
+	},
+	{
+		"id": "6ADF86D5-DD32-BC6F-D157-8C836F5BEF67",
+		"card_id": "CcU-4849",
+		"business_id": "b-2302",
+		"lat_long": "26.4978286592, -54.1348856832",
+		"timestamp": 1647249790000,
+		"amount": "$20.33",
+		"declined": false,
+		"product_ids": 1
+	},
+	{
+		"id": "241827A6-E87C-6DA3-5AC9-BBCFD42B7D2A",
+		"card_id": "CcU-4849",
+		"business_id": "b-2302",
+		"lat_long": "-12.1171994624, -175.3217037312",
+		"timestamp": 1628052275000,
+		"amount": "$487.64",
+		"declined": false,
+		"product_ids": "97, 83, 3"
+	},
+	{
+		"id": "D20BBC5C-8161-1D3B-E15D-243D51B563B6",
+		"card_id": "CcU-4849",
+		"business_id": "b-2302",
+		"lat_long": "-38.3104818176, 111.2327752704",
+		"timestamp": 1622387517000,
+		"amount": "$151.15",
+		"declined": false,
+		"product_ids": 61
+	},
+	{
+		"id": "14CAE5B5-8FB1-3E4A-4C85-0EA4167534F4",
+		"card_id": "CcU-4849",
+		"business_id": "b-2302",
+		"lat_long": "-53.6202237952, 93.0533436416",
+		"timestamp": 1640910582000,
+		"amount": "$388.04",
+		"declined": false,
+		"product_ids": "2, 13, 53, 31"
+	},
+	{
+		"id": "9CEA5069-EEDB-11BB-F8DE-9E8585CA56B8",
+		"card_id": "CcU-4849",
+		"business_id": "b-2302",
+		"lat_long": "-51.975164416, 116.5843026944",
+		"timestamp": 1624722761000,
+		"amount": "$308.12",
+		"declined": false,
+		"product_ids": 73
+	},
+	{
+		"id": "DD760F36-BB02-83DC-69A9-E24D736E30D1",
+		"card_id": "CcU-4849",
+		"business_id": "b-2302",
+		"lat_long": "21.1553867776, 33.2200752128",
+		"timestamp": 1636955663000,
+		"amount": "$324.43",
+		"declined": false,
+		"product_ids": "53, 23, 79, 43"
+	},
+	{
+		"id": "D8357216-2798-76CA-6C49-45BEC2E8C6BB",
+		"card_id": "CcU-4849",
+		"business_id": "b-2302",
+		"lat_long": "83.786072576, -36.5492380672",
+		"timestamp": 1624685306000,
+		"amount": "$93.03",
+		"declined": false,
+		"product_ids": 53
+	},
+	{
+		"id": "FE809ED4-2DB6-55AC-C915-929516E4646B",
+		"card_id": "CcU-4849",
+		"business_id": "b-2302",
+		"lat_long": "-46.0751433728, -142.2416956416",
+		"timestamp": 1636493740000,
+		"amount": "$219.83",
+		"declined": false,
+		"product_ids": "23, 43"
+	},
+	{
+		"id": "6BB61B4B-EBD8-84AD-EED7-882D166A7A1E",
+		"card_id": "CcU-4849",
+		"business_id": "b-2302",
+		"lat_long": "34.7270662144, -178.4175968256",
+		"timestamp": 1616468571000,
+		"amount": "$108.51",
+		"declined": false,
+		"product_ids": "19, 59, 61, 83"
+	},
+	{
+		"id": "158A3ACB-541C-DBCC-65BD-6373CC67BF1C",
+		"card_id": "CcU-4849",
+		"business_id": "b-2302",
+		"lat_long": "42.5424324608, -170.3472777216",
+		"timestamp": 1646715739000,
+		"amount": "$240.29",
+		"declined": false,
+		"product_ids": "13, 41, 89, 71"
+	},
+	{
+		"id": "83A1AA60-721D-6CB6-9857-E794C6EACDF8",
+		"card_id": "CcU-4849",
+		"business_id": "b-2302",
+		"lat_long": "-33.5558957056, 133.405159936",
+		"timestamp": 1639699472000,
+		"amount": "$235.27",
+		"declined": false,
+		"product_ids": "29, 79"
+	},
+	{
+		"id": "C88532CB-7A60-CE22-AFD3-6A8B641C8D7C",
+		"card_id": "CcU-4849",
+		"business_id": "b-2302",
+		"lat_long": "7.5702027264, -164.9054988288",
+		"timestamp": 1645216416000,
+		"amount": "$23.35",
+		"declined": false,
+		"product_ids": 19
+	},
+	{
+		"id": "8A5C0729-BEB4-C999-C36A-A3AC7A0C7B8E",
+		"card_id": "CcU-4849",
+		"business_id": "b-2302",
+		"lat_long": "-66.279431168, 105.3086706688",
+		"timestamp": 1633042356000,
+		"amount": "$321.39",
+		"declined": false,
+		"product_ids": 31
+	},
+	{
+		"id": "A6240105-79C6-DD54-28A1-0164B6CE6767",
+		"card_id": "CcU-4849",
+		"business_id": "b-2302",
+		"lat_long": "-29.90440448, -179.3341416448",
+		"timestamp": 1645895093000,
+		"amount": "$420.59",
+		"declined": false,
+		"product_ids": "47, 67, 53"
+	},
+	{
+		"id": "65F57592-B32E-1D2E-3466-57D7F1691D0D",
+		"card_id": "CcU-4849",
+		"business_id": "b-2302",
+		"lat_long": "-48.661184512, 67.856220672",
+		"timestamp": 1623738364000,
+		"amount": "$476.75",
+		"declined": false,
+		"product_ids": "67, 73, 7"
+	},
+	{
+		"id": "18C4E2DD-1E4C-F35E-2198-C660BD81DC25",
+		"card_id": "CcU-4849",
+		"business_id": "b-2302",
+		"lat_long": "68.0132978688, 91.4839083008",
+		"timestamp": 1632509725000,
+		"amount": "$237.04",
+		"declined": false,
+		"product_ids": "61, 53, 97, 31"
+	},
+	{
+		"id": "75CCE66C-1C7B-8777-4419-467AD80B77C1",
+		"card_id": "CcU-4849",
+		"business_id": "b-2302",
+		"lat_long": "-44.1777768448, -177.7639172096",
+		"timestamp": 1620915977000,
+		"amount": "$109.80",
+		"declined": false,
+		"product_ids": 2
+	},
+	{
+		"id": "3A3E00C1-C191-02EF-AD8E-42C9DA644E4A",
+		"card_id": "CcU-4849",
+		"business_id": "b-2302",
+		"lat_long": "0.3400129536, 174.033028096",
+		"timestamp": 1636571690000,
+		"amount": "$451.66",
+		"declined": false,
+		"product_ids": "3, 2, 67"
+	},
+	{
+		"id": "BB19787C-ACBC-786D-FA21-3C1C73B3027B",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "-44.0068482048, -70.5731263488",
+		"timestamp": 1635197162000,
+		"amount": "$411.64",
+		"declined": false,
+		"product_ids": 41
+	},
+	{
+		"id": "18CCBA7C-ABC1-813D-FAF3-4BAB97429368",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "51.3880513536, -156.3705291776",
+		"timestamp": 1624245694000,
+		"amount": "$58.16",
+		"declined": false,
+		"product_ids": "83, 97, 23, 71"
+	},
+	{
+		"id": "1717FD6B-ADAD-7082-A748-9112BE892CCC",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "69.489217024, -138.4107855872",
+		"timestamp": 1640794734000,
+		"amount": "$249.91",
+		"declined": false,
+		"product_ids": "2, 5"
+	},
+	{
+		"id": "BF0BA28B-355D-412E-089C-B152516DC965",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "67.3245003776, 114.091905024",
+		"timestamp": 1616766388000,
+		"amount": "$485.31",
+		"declined": false,
+		"product_ids": "13, 61, 23, 3"
+	},
+	{
+		"id": "0466A42E-47CF-8D24-FD01-C0B689713128",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "-43.9694885888, -117.5251835904",
+		"timestamp": 1627284558000,
+		"amount": "$49.53",
+		"declined": false,
+		"product_ids": "47, 97, 43"
+	},
+	{
+		"id": "6AAA5BDC-C19A-82CC-EF22-70DEE21ACF9E",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "46.5653733376, 172.0721230848",
+		"timestamp": 1637007448000,
+		"amount": "$399.33",
+		"declined": false,
+		"product_ids": "2, 11, 67"
+	},
+	{
+		"id": "CA264293-D392-1E21-1BCA-16CEA88D875A",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "-49.6402859008, -41.8468539392",
+		"timestamp": 1638537112000,
+		"amount": "$171.43",
+		"declined": false,
+		"product_ids": "89, 61, 11, 97"
+	},
+	{
+		"id": "D9B9435F-D55B-BA72-4E66-D8A9E3DC62C0",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "-35.1211864064, 6.0376592384",
+		"timestamp": 1629004379000,
+		"amount": "$298.62",
+		"declined": false,
+		"product_ids": "61, 43"
+	},
+	{
+		"id": "34AA1D64-2989-DE1C-8705-C66C8DDB19DD",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "-17.0772025344, -169.0059088896",
+		"timestamp": 1646199041000,
+		"amount": "$275.45",
+		"declined": false,
+		"product_ids": "13, 97, 37"
+	},
+	{
+		"id": "C0B617A7-A5B1-AF49-C9A2-8112974C4957",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "-74.6637198336, -52.7904103424",
+		"timestamp": 1628631814000,
+		"amount": "$18.41",
+		"declined": false,
+		"product_ids": "43, 17, 73, 23"
+	},
+	{
+		"id": "E13D8D35-982C-927A-7CBC-ED425AED80F9",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "-62.7547771904, 46.0398328832",
+		"timestamp": 1618640324000,
+		"amount": "$279.35",
+		"declined": false,
+		"product_ids": "47, 53"
+	},
+	{
+		"id": "1B117D49-936C-BA6C-E94B-30C3293AA239",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "-75.0990076928, 109.0344773632",
+		"timestamp": 1620604564000,
+		"amount": "$371.35",
+		"declined": false,
+		"product_ids": "59, 83"
+	},
+	{
+		"id": "7622460B-29BE-594C-8D14-D73DEAD91B94",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "-58.0788811776, -100.3296871424",
+		"timestamp": 1643818203000,
+		"amount": "$239.14",
+		"declined": false,
+		"product_ids": "43, 37, 7"
+	},
+	{
+		"id": "F5ACD74B-4275-5AA1-2414-6EF417636B98",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "-56.354751488, 152.0109979648",
+		"timestamp": 1637438440000,
+		"amount": "$148.97",
+		"declined": false,
+		"product_ids": "1, 97, 3"
+	},
+	{
+		"id": "6CB65FA4-6A8E-0C33-BFB7-2E8E4A775E4B",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "-3.4361732096, 150.0194044928",
+		"timestamp": 1621510565000,
+		"amount": "$257.44",
+		"declined": false,
+		"product_ids": "71, 11, 97, 1"
+	},
+	{
+		"id": "BEBBC256-9696-1AAB-2C73-D2F3775301A9",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "-34.1831044096, -7.0475633664",
+		"timestamp": 1618241334000,
+		"amount": "$346.46",
+		"declined": false,
+		"product_ids": "59, 53"
+	},
+	{
+		"id": "DD4011AE-136E-9F62-EEA0-3E0D088E4455",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "-77.82244608, 151.8171287552",
+		"timestamp": 1642847448000,
+		"amount": "$257.24",
+		"declined": false,
+		"product_ids": "59, 2, 31"
+	},
+	{
+		"id": "5218E51C-E258-BFA4-BE23-AF815F66FAF8",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "18.973232128, 66.3985398784",
+		"timestamp": 1631050725000,
+		"amount": "$234.52",
+		"declined": false,
+		"product_ids": "31, 67, 97"
+	},
+	{
+		"id": "62A399E3-0FDD-2E65-5A95-21D8C59C33DC",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "-61.286327808, -4.3183143936",
+		"timestamp": 1621008609000,
+		"amount": "$22.92",
+		"declined": false,
+		"product_ids": "67, 1, 2"
+	},
+	{
+		"id": "E1A3E48E-E1B4-1E36-FE2F-C4E5A3743779",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "-44.6536071168, -169.0344758272",
+		"timestamp": 1636806035000,
+		"amount": "$341.67",
+		"declined": false,
+		"product_ids": "23, 67, 37"
+	},
+	{
+		"id": "19E1EC3E-2119-1EFD-8AAE-5930D4A4E63F",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "-56.0838861824, 116.9871379456",
+		"timestamp": 1625607615000,
+		"amount": "$29.63",
+		"declined": false,
+		"product_ids": "83, 11, 5"
+	},
+	{
+		"id": "34368DE0-D181-1B5C-6698-8DF585C06421",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "-8.2045213696, 89.9882452992",
+		"timestamp": 1625482494000,
+		"amount": "$86.69",
+		"declined": false,
+		"product_ids": "61, 11"
+	},
+	{
+		"id": "FCE2AB9A-271D-2BDC-9E49-8DD92A373391",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "1.5131582464, 48.27481088",
+		"timestamp": 1644187721000,
+		"amount": "$335.56",
+		"declined": false,
+		"product_ids": "59, 5, 41, 37"
+	},
+	{
+		"id": "DFEC1C7F-38E1-2AAC-ACD9-7985DB48C31D",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "-44.0442028032, -15.8412726272",
+		"timestamp": 1618851584000,
+		"amount": "$175.73",
+		"declined": false,
+		"product_ids": 13
+	},
+	{
+		"id": "9E14CE6E-A32B-E693-2D42-F12C6DEB4308",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "-64.625228288, -153.8290961408",
+		"timestamp": 1621531717000,
+		"amount": "$95.59",
+		"declined": false,
+		"product_ids": 3
+	},
+	{
+		"id": "2C9A4725-4B19-621C-4EE4-AE9E31CFE5B0",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "-46.7357316096, 162.1021497344",
+		"timestamp": 1628933014000,
+		"amount": "$28.95",
+		"declined": false,
+		"product_ids": 73
+	},
+	{
+		"id": "82406B7B-C498-4FF2-517A-F9A9E3BABF41",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "-53.1551818752, -72.4675135488",
+		"timestamp": 1635674874000,
+		"amount": "$260.23",
+		"declined": false,
+		"product_ids": "1, 2, 7"
+	},
+	{
+		"id": "369213C7-BD65-0715-6644-D5E4F9BD9914",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "88.7858717696, -148.0226335744",
+		"timestamp": 1640804069000,
+		"amount": "$458.66",
+		"declined": false,
+		"product_ids": "23, 19, 41"
+	},
+	{
+		"id": "726E5247-EC79-A415-3409-16A666404C6A",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "-13.129895424, -155.4086745088",
+		"timestamp": 1637202615000,
+		"amount": "$52.97",
+		"declined": false,
+		"product_ids": "41, 61, 1"
+	},
+	{
+		"id": "C40174D7-1EBC-29B2-2F70-53236CA24369",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "-19.4068745216, 160.6605232128",
+		"timestamp": 1623664387000,
+		"amount": "$444.82",
+		"declined": false,
+		"product_ids": "67, 83, 59"
+	},
+	{
+		"id": "BC9E5393-485B-418E-6E9C-CB454E934224",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "29.2279081984, 164.6556050432",
+		"timestamp": 1624445830000,
+		"amount": "$458.52",
+		"declined": false,
+		"product_ids": "79, 31"
+	},
+	{
+		"id": "BA1BE1BA-AAC8-FD6C-3C74-A77E375AE85D",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "2.499150848, -16.1739773952",
+		"timestamp": 1628901596000,
+		"amount": "$474.76",
+		"declined": false,
+		"product_ids": "41, 7"
+	},
+	{
+		"id": "41932C77-45B5-C786-6B3F-DBB619B2D535",
+		"card_id": "CcU-4219",
+		"business_id": "b-2302",
+		"lat_long": "-8.3724722176, -67.87759872",
+		"timestamp": 1644657125000,
+		"amount": "$358.36",
+		"declined": false,
+		"product_ids": 89
+	},
+	{
+		"id": "EC8D77B4-5570-7DC6-3DE9-E46A861A7479",
+		"card_id": "CcU-4219",
+		"business_id": "b-2326",
+		"lat_long": "82.7795534848, 37.770658304",
+		"timestamp": 1644215057000,
+		"amount": "$471.78",
+		"declined": false,
+		"product_ids": "89, 17"
+	},
+	{
+		"id": "45CA3E45-6B42-CAC4-7683-EBB69D523B3E",
+		"card_id": "CcU-4219",
+		"business_id": "b-2326",
+		"lat_long": "85.705495552, 36.149653504",
+		"timestamp": 1619677022000,
+		"amount": "$149.89",
+		"declined": false,
+		"product_ids": "41, 89"
+	},
+	{
+		"id": "DF588D4E-F11B-CDA9-0C85-49127C7F4D01",
+		"card_id": "CcU-4219",
+		"business_id": "b-2326",
+		"lat_long": "20.8415793152, 130.4498081792",
+		"timestamp": 1618526932000,
+		"amount": "$452.66",
+		"declined": false,
+		"product_ids": "23, 47, 2"
+	},
+	{
+		"id": "41C13F08-471E-D475-3E14-760DF3F79B42",
+		"card_id": "CcU-4219",
+		"business_id": "b-2326",
+		"lat_long": "-51.7289443328, 55.3294360576",
+		"timestamp": 1642351735000,
+		"amount": "$45.63",
+		"declined": false,
+		"product_ids": "3, 19"
+	},
+	{
+		"id": "3ED634C2-01CA-D6E9-2DBD-24B53A7912F7",
+		"card_id": "CcU-4219",
+		"business_id": "b-2326",
+		"lat_long": "69.0548969472, 96.5032843264",
+		"timestamp": 1617017918000,
+		"amount": "$478.54",
+		"declined": false,
+		"product_ids": "37, 23, 61, 3"
+	},
+	{
+		"id": "ED9CCFC6-33C8-D6A9-731F-B762DFF1659E",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "39.8684752896, -153.4847789056",
+		"timestamp": 1639816659000,
+		"amount": "$371.88",
+		"declined": false,
+		"product_ids": "71, 23, 53"
+	},
+	{
+		"id": "89A34935-2145-B045-3ED0-1FFAB39DDA32",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "-21.454500864, 24.6215579648",
+		"timestamp": 1642504115000,
+		"amount": "$172.74",
+		"declined": false,
+		"product_ids": "23, 1"
+	},
+	{
+		"id": "C655DD05-66BB-282B-2234-EB6345C625E4",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "27.7682521088, 4.0159194112",
+		"timestamp": 1627364809000,
+		"amount": "$24.50",
+		"declined": false,
+		"product_ids": 53
+	},
+	{
+		"id": "1479B3D2-B7BA-C7BB-4CE3-8D7C2DE85ABB",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "66.2671920128, 172.3992054784",
+		"timestamp": 1628470687000,
+		"amount": "$309.45",
+		"declined": false,
+		"product_ids": "89, 41, 59"
+	},
+	{
+		"id": "E8A862CE-AC8B-A489-620C-DDD7FEB16AA2",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "-60.4058348544, 179.1707977728",
+		"timestamp": 1640078030000,
+		"amount": "$295.55",
+		"declined": false,
+		"product_ids": "1, 47, 67, 89"
+	},
+	{
+		"id": "1B636B58-A2E8-7C69-D9C9-C54535DAFD3B",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "70.254268416, -13.1335795712",
+		"timestamp": 1625561326000,
+		"amount": "$195.06",
+		"declined": false,
+		"product_ids": 53
+	},
+	{
+		"id": "AC272DC8-737D-FBB0-548A-B09582C1C00F",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "1.3991277568, -2.8353077248",
+		"timestamp": 1633790171000,
+		"amount": "$354.45",
+		"declined": false,
+		"product_ids": 47
+	},
+	{
+		"id": "4217E857-1D51-5D25-B645-EC24D23C8759",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "65.4732827648, -20.2735168512",
+		"timestamp": 1619183278000,
+		"amount": "$193.33",
+		"declined": false,
+		"product_ids": "7, 83, 67, 89"
+	},
+	{
+		"id": "4B74B94B-D123-7C7E-A9CE-7DA26F911F55",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "25.6023939072, 53.4542564352",
+		"timestamp": 1644676048000,
+		"amount": "$304.43",
+		"declined": false,
+		"product_ids": "53, 3, 47"
+	},
+	{
+		"id": "D1389977-A7AD-1B56-1DE4-E2E94741D40C",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "-8.727405056, 37.959965696",
+		"timestamp": 1646883805000,
+		"amount": "$226.10",
+		"declined": false,
+		"product_ids": "1, 5"
+	},
+	{
+		"id": "239B8576-6C0E-137A-C2F6-3180A188A2D3",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "23.6174143488, 137.2224935936",
+		"timestamp": 1629957845000,
+		"amount": "$43.90",
+		"declined": false,
+		"product_ids": "89, 53, 41"
+	},
+	{
+		"id": "85C562AB-DC50-8E93-3D86-47B1B751A851",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "-58.3416118272, 176.221200896",
+		"timestamp": 1630044080000,
+		"amount": "$134.84",
+		"declined": false,
+		"product_ids": "79, 67"
+	},
+	{
+		"id": "65DB2765-E85D-2B74-2BDA-A8AEFD248928",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "-19.9162022912, 2.6147513344",
+		"timestamp": 1638955511000,
+		"amount": "$140.67",
+		"declined": false,
+		"product_ids": "47, 11, 71"
+	},
+	{
+		"id": "A4848E54-0F7C-7164-6C3F-631F96747C52",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "0.776025088, -80.4414107648",
+		"timestamp": 1642959613000,
+		"amount": "$83.87",
+		"declined": false,
+		"product_ids": "47, 71, 31"
+	},
+	{
+		"id": "5F4738BE-B392-A2E2-1E8E-C4A812C6A95C",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "-57.1143384064, -154.7672162304",
+		"timestamp": 1641791575000,
+		"amount": "$253.68",
+		"declined": false,
+		"product_ids": 97
+	},
+	{
+		"id": "BCD57868-7187-DB86-BAE1-EB3E6EEC3B48",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "39.490518016, -172.7978750976",
+		"timestamp": 1635579628000,
+		"amount": "$344.32",
+		"declined": false,
+		"product_ids": "79, 83"
+	},
+	{
+		"id": "20418DE5-B804-BE9B-BD7A-A95C1BFDBF5C",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "-79.1145294848, 1.514806272",
+		"timestamp": 1641225569000,
+		"amount": "$479.52",
+		"declined": false,
+		"product_ids": "89, 13"
+	},
+	{
+		"id": "3142C93E-B3B7-49E4-EE2D-29CA834B198D",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "-67.847559168, -119.97814016",
+		"timestamp": 1617729884000,
+		"amount": "$91.59",
+		"declined": false,
+		"product_ids": "29, 43"
+	},
+	{
+		"id": "BB611D65-521D-E30F-94C8-1CD1EDE9CC28",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "89.5344712704, 29.5245232128",
+		"timestamp": 1643357187000,
+		"amount": "$123.25",
+		"declined": false,
+		"product_ids": "59, 7"
+	},
+	{
+		"id": "981D2677-9924-A1A0-8A23-2AE7E988A7B7",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "-10.5975128064, 50.7339298816",
+		"timestamp": 1630836120000,
+		"amount": "$63.93",
+		"declined": false,
+		"product_ids": "3, 17"
+	},
+	{
+		"id": "41EC591D-808E-D85C-F05F-08BC3DE7A618",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "5.3853462528, -78.3916817408",
+		"timestamp": 1641455259000,
+		"amount": "$335.54",
+		"declined": false,
+		"product_ids": "17, 11, 19, 7"
+	},
+	{
+		"id": "3578688E-7B1D-B887-3BC7-20B8673AA31E",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "87.0664830976, -22.733851648",
+		"timestamp": 1627340364000,
+		"amount": "$303.60",
+		"declined": false,
+		"product_ids": "41, 13, 2"
+	},
+	{
+		"id": "152598C2-029D-D684-4B66-91EDF393EBFF",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "-67.0189467648, -141.6721632256",
+		"timestamp": 1625454600000,
+		"amount": "$395.43",
+		"declined": false,
+		"product_ids": "23, 97"
+	},
+	{
+		"id": "267C4A86-7BA7-1C5E-0718-2824983C87DD",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "-17.5259107328, 104.914614784",
+		"timestamp": 1633122533000,
+		"amount": "$122.63",
+		"declined": false,
+		"product_ids": "17, 47, 29, 67"
+	},
+	{
+		"id": "3FEC4131-9BED-2EA6-1776-82674C80DDBB",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "-7.28468992, 179.0625251328",
+		"timestamp": 1627189157000,
+		"amount": "$393.42",
+		"declined": false,
+		"product_ids": "71, 17, 83"
+	},
+	{
+		"id": "8EEDAC97-5D5C-8649-B476-2F9D9FC28F80",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "88.7599280128, 38.3600350208",
+		"timestamp": 1631141179000,
+		"amount": "$54.17",
+		"declined": false,
+		"product_ids": 59
+	},
+	{
+		"id": "B5C49D11-1D34-4B90-209F-803CBA1CE91F",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "-82.1022799872, -62.8648525824",
+		"timestamp": 1641591998000,
+		"amount": "$113.23",
+		"declined": false,
+		"product_ids": "43, 67"
+	},
+	{
+		"id": "634E63C6-C2D6-EC48-4CCF-6B4A60AAEEB7",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "-77.8922662912, -167.6832836608",
+		"timestamp": 1631890945000,
+		"amount": "$399.71",
+		"declined": false,
+		"product_ids": "19, 1"
+	},
+	{
+		"id": "83E6BA9E-E737-37D0-5385-585F1B8A318B",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "67.1904467968, 117.6165398528",
+		"timestamp": 1621894650000,
+		"amount": "$170.15",
+		"declined": false,
+		"product_ids": "89, 1, 53"
+	},
+	{
+		"id": "8EECB926-0A27-9A3A-D0A8-B8FDBC0F8A75",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "65.9664591872, 140.1620261888",
+		"timestamp": 1645646273000,
+		"amount": "$136.28",
+		"declined": false,
+		"product_ids": "67, 37"
+	},
+	{
+		"id": "9D38BED9-558B-EF5A-E4B3-C9668587A15B",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "81.8237211648, 76.2950119424",
+		"timestamp": 1637352147000,
+		"amount": "$178.59",
+		"declined": false,
+		"product_ids": "67, 2, 47"
+	},
+	{
+		"id": "EE8ED5A8-CEC8-9387-524C-A911BB473C1F",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "-38.5150828544, -139.1505196032",
+		"timestamp": 1639398615000,
+		"amount": "$105.51",
+		"declined": false,
+		"product_ids": 19
+	},
+	{
+		"id": "4D8E4891-1711-7D30-E4CB-645A8DF59A43",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "5.7191532544, -155.3694454784",
+		"timestamp": 1640483359000,
+		"amount": "$365.83",
+		"declined": false,
+		"product_ids": "47, 89, 67, 5"
+	},
+	{
+		"id": "B3E58105-C56C-816E-C133-8F2D7940B0E4",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "-0.2791235584, 21.2832589824",
+		"timestamp": 1619805361000,
+		"amount": "$465.97",
+		"declined": false,
+		"product_ids": "2, 79, 59"
+	},
+	{
+		"id": "391E1CFD-D653-E45B-A729-F2EB93247B58",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "60.5512365056, 103.9035229184",
+		"timestamp": 1633740638000,
+		"amount": "$271.27",
+		"declined": false,
+		"product_ids": "83, 61"
+	},
+	{
+		"id": "3C4D7C2A-A402-B941-625A-D64CA53526E8",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "23.1626718208, -10.3810471936",
+		"timestamp": 1619377912000,
+		"amount": "$441.27",
+		"declined": false,
+		"product_ids": "23, 17"
+	},
+	{
+		"id": "360C7814-F7AF-B43A-0946-AB38D2683C86",
+		"card_id": "CcU-2994",
+		"business_id": "b-2326",
+		"lat_long": "-7.9300544512, -79.0733114368",
+		"timestamp": 1629541198000,
+		"amount": "$494.82",
+		"declined": false,
+		"product_ids": "7, 19, 79"
+	},
+	{
+		"id": "B220187A-2A9C-0384-EEA1-DD917F11C94F",
+		"card_id": "CcU-3393",
+		"business_id": "b-2326",
+		"lat_long": "0.9202272256, 25.7309387776",
+		"timestamp": 1630988008000,
+		"amount": "$466.46",
+		"declined": false,
+		"product_ids": 53
+	},
+	{
+		"id": "A4534186-6CA4-E81C-26E1-896861685ED9",
+		"card_id": "CcU-3393",
+		"business_id": "b-2326",
+		"lat_long": "-13.0856718336, -151.407397888",
+		"timestamp": 1622980652000,
+		"amount": "$58.14",
+		"declined": false,
+		"product_ids": "37, 29"
+	},
+	{
+		"id": "A324A47C-7E94-548E-E352-7BD8671E41B3",
+		"card_id": "CcU-3393",
+		"business_id": "b-2326",
+		"lat_long": "22.21549056, 38.836973056",
+		"timestamp": 1639398555000,
+		"amount": "$109.78",
+		"declined": false,
+		"product_ids": "7, 3, 2"
+	},
+	{
+		"id": "9281A912-BC56-8905-9279-FC8BDE2185F6",
+		"card_id": "CcU-3393",
+		"business_id": "b-2326",
+		"lat_long": "49.4941755392, -62.5085568",
+		"timestamp": 1622048477000,
+		"amount": "$341.44",
+		"declined": false,
+		"product_ids": "7, 19"
+	},
+	{
+		"id": "9833DD1C-702C-A8A7-FBA6-ABCA470DF7BE",
+		"card_id": "CcU-3393",
+		"business_id": "b-2326",
+		"lat_long": "-84.9792142336, 128.7663127552",
+		"timestamp": 1641507958000,
+		"amount": "$472.18",
+		"declined": false,
+		"product_ids": "79, 97, 17"
+	},
+	{
+		"id": "D95F1CB4-2844-66D2-3958-E4E6EFC36A75",
+		"card_id": "CcU-3393",
+		"business_id": "b-2326",
+		"lat_long": "-86.2736423936, -118.7369746432",
+		"timestamp": 1628962962000,
+		"amount": "$266.37",
+		"declined": false,
+		"product_ids": "47, 89"
+	},
+	{
+		"id": "DD9B60B0-D1BC-F993-4DE8-5A247ADCD734",
+		"card_id": "CcU-3393",
+		"business_id": "b-2326",
+		"lat_long": "65.036389376, -26.2682423296",
+		"timestamp": 1632492539000,
+		"amount": "$176.20",
+		"declined": false,
+		"product_ids": "2, 23"
+	},
+	{
+		"id": "71CB87BE-F93E-4877-DF6D-1BD3B312ED29",
+		"card_id": "CcU-3393",
+		"business_id": "b-2326",
+		"lat_long": "-27.1211906048, -105.5734203392",
+		"timestamp": 1634848916000,
+		"amount": "$441.63",
+		"declined": false,
+		"product_ids": "5, 59"
+	},
+	{
+		"id": "84B8ECA6-A786-91C0-C973-8B730565BFA3",
+		"card_id": "CcU-3393",
+		"business_id": "b-2326",
+		"lat_long": "-7.4334290944, -77.4373897216",
+		"timestamp": 1638429155000,
+		"amount": "$179.18",
+		"declined": false,
+		"product_ids": "11, 71, 17"
+	},
+	{
+		"id": "61EC87A4-CF88-B392-F83B-75E7F2C93537",
+		"card_id": "CcU-3393",
+		"business_id": "b-2326",
+		"lat_long": "88.4626167808, 85.6351249408",
+		"timestamp": 1622579037000,
+		"amount": "$346.10",
+		"declined": false,
+		"product_ids": "89, 53"
+	},
+	{
+		"id": "BA338D01-C4D1-6F43-DDF8-5EC8C8B8384B",
+		"card_id": "CcU-3393",
+		"business_id": "b-2326",
+		"lat_long": "-34.5538674688, -89.1280589824",
+		"timestamp": 1644075388000,
+		"amount": "$187.19",
+		"declined": false,
+		"product_ids": "53, 97, 73, 2"
+	},
+	{
+		"id": "49CD105D-E569-3733-C8C8-3908ED7E1838",
+		"card_id": "CcU-3393",
+		"business_id": "b-2326",
+		"lat_long": "-47.8783276032, 168.2745216",
+		"timestamp": 1640389439000,
+		"amount": "$411.81",
+		"declined": false,
+		"product_ids": 43
+	},
+	{
+		"id": "7D0819EC-7363-6767-36C0-97C7E77D5E65",
+		"card_id": "CcU-3393",
+		"business_id": "b-2326",
+		"lat_long": "-26.2615816192, 26.8732556288",
+		"timestamp": 1620574586000,
+		"amount": "$158.89",
+		"declined": false,
+		"product_ids": "97, 79, 67"
+	},
+	{
+		"id": "8C5C40B3-3988-EE44-126E-18147A9E62D2",
+		"card_id": "CcU-3393",
+		"business_id": "b-2346",
+		"lat_long": "-32.733751808, -136.1626254336",
+		"timestamp": 1640150290000,
+		"amount": "$123.09",
+		"declined": false,
+		"product_ids": "37, 11, 2, 3"
+	},
+	{
+		"id": "9A993DCE-716B-D784-9192-285C2A490AE8",
+		"card_id": "CcU-3393",
+		"business_id": "b-2346",
+		"lat_long": "66.7095329792, -105.291339776",
+		"timestamp": 1630194017000,
+		"amount": "$193.64",
+		"declined": false,
+		"product_ids": "61, 11, 23"
+	},
+	{
+		"id": "51A4866C-484C-5529-8419-B7BBAD4E294D",
+		"card_id": "CcU-3393",
+		"business_id": "b-2346",
+		"lat_long": "74.8690797568, -147.03364352",
+		"timestamp": 1616840742000,
+		"amount": "$447.06",
+		"declined": false,
+		"product_ids": "5, 23, 37"
+	},
+	{
+		"id": "CEED5D49-B28F-49A6-E967-9E7F74864190",
+		"card_id": "CcU-3393",
+		"business_id": "b-2346",
+		"lat_long": "-75.2028557312, 73.2142086144",
+		"timestamp": 1631155260000,
+		"amount": "$107.30",
+		"declined": false,
+		"product_ids": "19, 71, 41"
+	},
+	{
+		"id": "F843DC08-CCB5-2444-1B4E-5966289FBA8B",
+		"card_id": "CcU-3393",
+		"business_id": "b-2346",
+		"lat_long": "17.9004024832, 66.5477303296",
+		"timestamp": 1619511148000,
+		"amount": "$18.08",
+		"declined": false,
+		"product_ids": "7, 53, 37"
+	},
+	{
+		"id": "F85A7D75-2778-9D75-D776-3F41A828DE88",
+		"card_id": "CcU-3393",
+		"business_id": "b-2346",
+		"lat_long": "24.1698056192, 88.2781806592",
+		"timestamp": 1633830396000,
+		"amount": "$135.93",
+		"declined": false,
+		"product_ids": "23, 97, 31, 3"
+	},
+	{
+		"id": "9EE639A3-2836-87C2-207F-AF3941834DB2",
+		"card_id": "CcU-3393",
+		"business_id": "b-2346",
+		"lat_long": "-77.4476684288, -1.1697086464",
+		"timestamp": 1628497066000,
+		"amount": "$368.83",
+		"declined": false,
+		"product_ids": "19, 7"
+	},
+	{
+		"id": "B2C86E4D-8267-F19E-171E-FA48BA22C973",
+		"card_id": "CcU-4191",
+		"business_id": "b-2346",
+		"lat_long": "89.7861864448, 146.839717376",
+		"timestamp": 1633304392000,
+		"amount": "$132.80",
+		"declined": false,
+		"product_ids": "17, 11"
+	},
+	{
+		"id": "EF9E08A9-457D-D7C1-41E4-059B31C35CEC",
+		"card_id": "CcU-4191",
+		"business_id": "b-2346",
+		"lat_long": "89.9212483584, 158.1702048768",
+		"timestamp": 1621255872000,
+		"amount": "$274.28",
+		"declined": false,
+		"product_ids": 61
+	},
+	{
+		"id": "A1701A12-426C-3632-A533-974AD887466A",
+		"card_id": "CcU-4191",
+		"business_id": "b-2346",
+		"lat_long": "-22.19434752, 107.4763024384",
+		"timestamp": 1617608348000,
+		"amount": "$384.42",
+		"declined": false,
+		"product_ids": "83, 19, 29"
+	},
+	{
+		"id": "B3B7F2C7-AC19-929C-EEC2-8333E6EBE781",
+		"card_id": "CcU-4191",
+		"business_id": "b-2346",
+		"lat_long": "-80.0100667392, -165.152759296",
+		"timestamp": 1627982096000,
+		"amount": "$398.82",
+		"declined": false,
+		"product_ids": 17
+	},
+	{
+		"id": "80776A89-E0D2-A8EA-759B-50427D32BADA",
+		"card_id": "CcU-4191",
+		"business_id": "b-2346",
+		"lat_long": "2.1217031168, -29.2614890496",
+		"timestamp": 1625822356000,
+		"amount": "$185.83",
+		"declined": false,
+		"product_ids": 89
+	},
+	{
+		"id": "1742D72D-6EC3-1B42-A1B2-24AA75A6A14B",
+		"card_id": "CcU-4191",
+		"business_id": "b-2346",
+		"lat_long": "-18.9715958784, -101.5928839168",
+		"timestamp": 1617982637000,
+		"amount": "$297.59",
+		"declined": false,
+		"product_ids": "17, 11, 83, 67"
+	},
+	{
+		"id": "32A9BDCA-1390-2BE1-82C8-AD514E38A203",
+		"card_id": "CcU-4191",
+		"business_id": "b-2346",
+		"lat_long": "84.32473856, -89.4331097088",
+		"timestamp": 1634555787000,
+		"amount": "$483.96",
+		"declined": false,
+		"product_ids": "67, 2"
+	},
+	{
+		"id": "DC1885DA-2644-8623-0C0D-67AB5D8AB223",
+		"card_id": "CcU-4191",
+		"business_id": "b-2346",
+		"lat_long": "-78.0323771392, -127.6905961472",
+		"timestamp": 1637185143000,
+		"amount": "$121.54",
+		"declined": false,
+		"product_ids": "73, 17"
+	},
+	{
+		"id": "18528B27-18B8-93DA-9B8C-31635C536DA4",
+		"card_id": "CcU-4191",
+		"business_id": "b-2346",
+		"lat_long": "-43.6153265152, -16.370827776",
+		"timestamp": 1644964003000,
+		"amount": "$208.00",
+		"declined": false,
+		"product_ids": "83, 31"
+	},
+	{
+		"id": "AA6CA954-0AF1-D69E-6BEF-6B5B168C1A82",
+		"card_id": "CcU-4191",
+		"business_id": "b-2346",
+		"lat_long": "86.734760448, 83.5489742848",
+		"timestamp": 1628855216000,
+		"amount": "$221.11",
+		"declined": false,
+		"product_ids": "23, 83"
+	},
+	{
+		"id": "3461A2B4-8BEE-3797-ACA4-1DA3E64AC243",
+		"card_id": "CcU-4191",
+		"business_id": "b-2346",
+		"lat_long": "-82.3625645056, 123.029211136",
+		"timestamp": 1620628513000,
+		"amount": "$324.91",
+		"declined": false,
+		"product_ids": "79, 5"
+	},
+	{
+		"id": "615195B8-9983-A350-3DC7-A16B5135D68C",
+		"card_id": "CcU-4191",
+		"business_id": "b-2346",
+		"lat_long": "-20.1242334208, 173.4518612992",
+		"timestamp": 1627334338000,
+		"amount": "$368.94",
+		"declined": false,
+		"product_ids": "1, 79, 47"
+	},
+	{
+		"id": "971B44E4-D8B9-4553-163B-E41EB6A0637E",
+		"card_id": "CcU-4191",
+		"business_id": "b-2346",
+		"lat_long": "69.2838938624, -117.9512696832",
+		"timestamp": 1626566684000,
+		"amount": "$444.00",
+		"declined": false,
+		"product_ids": "17, 73, 2, 97"
+	},
+	{
+		"id": "DE55E734-9DA5-0725-EB1A-3CEB5517D4EB",
+		"card_id": "CcU-4191",
+		"business_id": "b-2346",
+		"lat_long": "-88.897508864, 121.7824164864",
+		"timestamp": 1633887876000,
+		"amount": "$125.11",
+		"declined": false,
+		"product_ids": 23
+	},
+	{
+		"id": "CDB26CD6-B89A-8EDD-E1BE-A332460535C7",
+		"card_id": "CcU-4191",
+		"business_id": "b-2346",
+		"lat_long": "41.023087104, 66.864113152",
+		"timestamp": 1631795909000,
+		"amount": "$55.50",
+		"declined": false,
+		"product_ids": "37, 13, 89"
+	},
+	{
+		"id": "E7756387-9D45-B1B5-D351-B1BFB64C485C",
+		"card_id": "CcU-4191",
+		"business_id": "b-2346",
+		"lat_long": "-39.1288726528, -179.3655436288",
+		"timestamp": 1640775568000,
+		"amount": "$199.81",
+		"declined": false,
+		"product_ids": "47, 79, 41, 89"
+	},
+	{
+		"id": "5B56159E-E3E6-2777-BC01-5659C2A69E96",
+		"card_id": "CcU-4191",
+		"business_id": "b-2346",
+		"lat_long": "-51.2746203136, -164.539436544",
+		"timestamp": 1617916341000,
+		"amount": "$466.66",
+		"declined": false,
+		"product_ids": "23, 41, 17"
+	},
+	{
+		"id": "A11EE195-49D1-4B36-28B2-47DD1541A2D4",
+		"card_id": "CcU-4191",
+		"business_id": "b-2346",
+		"lat_long": "38.532604928, -77.3225945088",
+		"timestamp": 1640201887000,
+		"amount": "$422.63",
+		"declined": false,
+		"product_ids": "29, 71, 61"
+	},
+	{
+		"id": "2EBE1D7D-9D97-9E4D-E758-2CDB994497A5",
+		"card_id": "CcU-4191",
+		"business_id": "b-2346",
+		"lat_long": "4.1087464448, -60.6688364544",
+		"timestamp": 1647265913000,
+		"amount": "$305.47",
+		"declined": false,
+		"product_ids": "89, 53, 59"
+	},
+	{
+		"id": "7D2C6E68-5951-C198-A567-75D465E7CDD0",
+		"card_id": "CcU-4191",
+		"business_id": "b-2346",
+		"lat_long": "-80.3769022464, 62.3218327552",
+		"timestamp": 1621522398000,
+		"amount": "$205.11",
+		"declined": false,
+		"product_ids": "13, 2, 5"
+	},
+	{
+		"id": "AF4491D0-A15D-BAAC-4D0B-42B3F645632B",
+		"card_id": "CcU-4191",
+		"business_id": "b-2346",
+		"lat_long": "70.1093013504, -104.2206225408",
+		"timestamp": 1634285689000,
+		"amount": "$428.86",
+		"declined": false,
+		"product_ids": "11, 79, 37"
+	},
+	{
+		"id": "7E9C9286-F32B-3CA5-68A3-4A841E3A8311",
+		"card_id": "CcU-4191",
+		"business_id": "b-2346",
+		"lat_long": "57.7668217856, -31.2554788864",
+		"timestamp": 1626872061000,
+		"amount": "$69.15",
+		"declined": false,
+		"product_ids": "1, 31, 71, 11"
+	},
+	{
+		"id": "E69AA81E-A9BE-5A34-1804-E349A1A76C26",
+		"card_id": "CcU-4191",
+		"business_id": "b-2346",
+		"lat_long": "13.9409456128, -116.0590621696",
+		"timestamp": 1620976666000,
+		"amount": "$293.49",
+		"declined": false,
+		"product_ids": "61, 37, 19"
+	},
+	{
+		"id": "1C9EE7A2-EA73-9E54-DAC7-D08632543C68",
+		"card_id": "CcU-4191",
+		"business_id": "b-2346",
+		"lat_long": "-63.0446019584, -175.347803648",
+		"timestamp": 1640193544000,
+		"amount": "$395.48",
+		"declined": false,
+		"product_ids": "2, 5, 73"
+	},
+	{
+		"id": "EA69485B-09A2-6170-73C4-65AFE5B71F4F",
+		"card_id": "CcU-2959",
+		"business_id": "b-2346",
+		"lat_long": "1.8063208448, -97.9624815616",
+		"timestamp": 1618554920000,
+		"amount": "$110.10",
+		"declined": false,
+		"product_ids": "7, 83, 59"
+	},
+	{
+		"id": "36CCD7CD-F90E-2EE9-5B8B-576A04715373",
+		"card_id": "CcU-2959",
+		"business_id": "b-2346",
+		"lat_long": "32.2189968384, -89.2956372992",
+		"timestamp": 1642350055000,
+		"amount": "$325.93",
+		"declined": false,
+		"product_ids": 11
+	},
+	{
+		"id": "4C978E50-CBB5-9B56-2BB5-BFE53636C719",
+		"card_id": "CcU-2959",
+		"business_id": "b-2346",
+		"lat_long": "83.235385344, -92.6384123904",
+		"timestamp": 1627213168000,
+		"amount": "$15.90",
+		"declined": false,
+		"product_ids": "43, 31, 47"
+	},
+	{
+		"id": "67692B94-E67F-0D25-59BF-D236BD9B4711",
+		"card_id": "CcU-2959",
+		"business_id": "b-2346",
+		"lat_long": "63.7590924288, 154.2407528448",
+		"timestamp": 1635835160000,
+		"amount": "$141.95",
+		"declined": false,
+		"product_ids": "7, 89"
+	},
+	{
+		"id": "EA41A50E-27D6-3612-788C-AD736D4EF523",
+		"card_id": "CcU-2959",
+		"business_id": "b-2346",
+		"lat_long": "27.6219155456, 118.9012793344",
+		"timestamp": 1629141326000,
+		"amount": "$320.29",
+		"declined": false,
+		"product_ids": "2, 17, 47, 19"
+	},
+	{
+		"id": "5B3327C3-0A6C-EFF1-182A-CD8220923A98",
+		"card_id": "CcU-2959",
+		"business_id": "b-2346",
+		"lat_long": "-79.5260705792, 88.4186293248",
+		"timestamp": 1640707994000,
+		"amount": "$163.40",
+		"declined": false,
+		"product_ids": 61
+	},
+	{
+		"id": "6CD4E674-30C5-7F82-7AE5-D8D48E62A684",
+		"card_id": "CcU-2959",
+		"business_id": "b-2346",
+		"lat_long": "-72.3520375808, 100.9196537856",
+		"timestamp": 1624963294000,
+		"amount": "$317.41",
+		"declined": false,
+		"product_ids": "67, 89, 17, 97"
+	},
+	{
+		"id": "96EC9CC8-867A-B71B-D61A-934C59DF7514",
+		"card_id": "CcU-2959",
+		"business_id": "b-2346",
+		"lat_long": "-27.378776576, 22.8249575424",
+		"timestamp": 1624662784000,
+		"amount": "$391.62",
+		"declined": false,
+		"product_ids": 67
+	},
+	{
+		"id": "450ADB51-22CC-B21C-7985-6F34366BE126",
+		"card_id": "CcU-2959",
+		"business_id": "b-2346",
+		"lat_long": "29.4635162624, 87.2626675712",
+		"timestamp": 1619129005000,
+		"amount": "$471.98",
+		"declined": false,
+		"product_ids": "13, 29, 19"
+	},
+	{
+		"id": "A780B6A7-8EFF-9DBD-2024-FC4E3AE5DE27",
+		"card_id": "CcU-2959",
+		"business_id": "b-2346",
+		"lat_long": "-34.005725184, 76.9450354688",
+		"timestamp": 1618419305000,
+		"amount": "$336.19",
+		"declined": false,
+		"product_ids": 11
+	},
+	{
+		"id": "8F54691C-221E-BB4E-4954-5373EE2C959E",
+		"card_id": "CcU-2959",
+		"business_id": "b-2346",
+		"lat_long": "7.7445769216, 13.0863778816",
+		"timestamp": 1623961130000,
+		"amount": "$441.43",
+		"declined": false,
+		"product_ids": "13, 43"
+	},
+	{
+		"id": "2899837A-45A3-D3B1-0D03-8B33B867DF9B",
+		"card_id": "CcU-2959",
+		"business_id": "b-2346",
+		"lat_long": "-1.5570224128, -95.717962752",
+		"timestamp": 1639258619000,
+		"amount": "$324.34",
+		"declined": false,
+		"product_ids": "11, 41, 29"
+	},
+	{
+		"id": "683334BD-AA2A-0249-B1E8-2FB4CE44E908",
+		"card_id": "CcU-2959",
+		"business_id": "b-2346",
+		"lat_long": "60.740759552, -39.5520877568",
+		"timestamp": 1626550235000,
+		"amount": "$430.20",
+		"declined": false,
+		"product_ids": "67, 43"
+	},
+	{
+		"id": "1026DA24-8929-31F1-8250-D7BAB05C13D2",
+		"card_id": "CcU-2959",
+		"business_id": "b-2346",
+		"lat_long": "32.064566272, -140.1465445376",
+		"timestamp": 1638869438000,
+		"amount": "$465.31",
+		"declined": false,
+		"product_ids": "89, 11, 97, 79"
+	},
+	{
+		"id": "310B8BF9-A441-1470-EDEF-417B7EF2B169",
+		"card_id": "CcU-2959",
+		"business_id": "b-2346",
+		"lat_long": "7.5346520064, -136.9231424512",
+		"timestamp": 1617537232000,
+		"amount": "$406.13",
+		"declined": false,
+		"product_ids": "3, 31, 97, 5"
+	},
+	{
+		"id": "6D2CA59B-C6E7-3938-CA4D-3603D23647A9",
+		"card_id": "CcU-2959",
+		"business_id": "b-2346",
+		"lat_long": "-36.55857664, 48.9359352832",
+		"timestamp": 1646007050000,
+		"amount": "$186.94",
+		"declined": false,
+		"product_ids": "53, 29, 59"
+	},
+	{
+		"id": "3DED9D58-D22A-2B11-C662-183011AE51F4",
+		"card_id": "CcU-2959",
+		"business_id": "b-2346",
+		"lat_long": "69.105099264, -170.5396009984",
+		"timestamp": 1634278670000,
+		"amount": "$278.83",
+		"declined": false,
+		"product_ids": "79, 1"
+	},
+	{
+		"id": "1D03001C-97EC-77F6-6E7E-8E2CAC237EA4",
+		"card_id": "CcU-2959",
+		"business_id": "b-2346",
+		"lat_long": "-39.716742656, -18.041516544",
+		"timestamp": 1625068783000,
+		"amount": "$32.36",
+		"declined": false,
+		"product_ids": "13, 53"
+	},
+	{
+		"id": "F56FCA4A-0039-9F64-7376-85632B91121B",
+		"card_id": "CcU-2959",
+		"business_id": "b-2346",
+		"lat_long": "45.5749358592, -73.5724366848",
+		"timestamp": 1617511864000,
+		"amount": "$294.13",
+		"declined": false,
+		"product_ids": "79, 23, 71, 41"
+	},
+	{
+		"id": "DE182E71-1C46-2EB8-A27F-2167D2D3B5D6",
+		"card_id": "CcU-2959",
+		"business_id": "b-2346",
+		"lat_long": "62.4276922368, -88.6409213952",
+		"timestamp": 1628500236000,
+		"amount": "$47.00",
+		"declined": false,
+		"product_ids": "73, 13"
+	},
+	{
+		"id": "36AD59C1-944F-C355-8358-B83A446F3272",
+		"card_id": "CcU-2959",
+		"business_id": "b-2346",
+		"lat_long": "-26.9569353728, -2.8432963584",
+		"timestamp": 1623289426000,
+		"amount": "$492.19",
+		"declined": false,
+		"product_ids": "5, 67"
+	},
+	{
+		"id": "156F3F80-7E7D-65CF-727D-6AE03CEB7520",
+		"card_id": "CcU-2959",
+		"business_id": "b-2346",
+		"lat_long": "-59.977840128, 172.730856448",
+		"timestamp": 1619679970000,
+		"amount": "$404.16",
+		"declined": false,
+		"product_ids": 5
+	},
+	{
+		"id": "06CD9AA5-9B42-D684-DDDD-A5E394FEBA99",
+		"card_id": "CcU-2959",
+		"business_id": "b-2346",
+		"lat_long": "33.7381445632, 158.298210304",
+		"timestamp": 1635289201000,
+		"amount": "$279.93",
+		"declined": false,
+		"product_ids": "43, 31"
+	},
+	{
+		"id": "CAA74261-A8B4-9FAF-C71E-D439262C143C",
+		"card_id": "CcU-2959",
+		"business_id": "b-2346",
+		"lat_long": "72.0396864512, 164.1177127936",
+		"timestamp": 1633217790000,
+		"amount": "$423.27",
+		"declined": false,
+		"product_ids": 37
+	},
+	{
+		"id": "EB46D6A6-0851-FA55-1292-DB04B2684794",
+		"card_id": "CcU-2959",
+		"business_id": "b-2346",
+		"lat_long": "-73.4025116672, 38.0525838336",
+		"timestamp": 1625339148000,
+		"amount": "$166.23",
+		"declined": false,
+		"product_ids": 5
+	},
+	{
+		"id": "95E6F678-3731-28A5-EB21-1A8D2D016BCB",
+		"card_id": "CcU-2959",
+		"business_id": "b-2346",
+		"lat_long": "16.5772985344, -123.7768577024",
+		"timestamp": 1646362112000,
+		"amount": "$192.13",
+		"declined": false,
+		"product_ids": 31
+	},
+	{
+		"id": "DB49DD45-6B1E-A151-5881-BDE2DC2965C0",
+		"card_id": "CcU-2959",
+		"business_id": "b-2362",
+		"lat_long": "-89.8247949312, -160.1658118144",
+		"timestamp": 1621737965000,
+		"amount": "$302.82",
+		"declined": false,
+		"product_ids": "73, 41, 19"
+	},
+	{
+		"id": "9F698741-2C27-2C18-9CD3-E3C7F9FBE1CB",
+		"card_id": "CcU-2959",
+		"business_id": "b-2362",
+		"lat_long": "79.1861485568, -103.3300302848",
+		"timestamp": 1639158862000,
+		"amount": "$84.20",
+		"declined": false,
+		"product_ids": 29
+	},
+	{
+		"id": "88A74E4E-D317-3F69-86A2-57849C548E71",
+		"card_id": "CcU-2959",
+		"business_id": "b-2362",
+		"lat_long": "-6.9985123328, -38.938115584",
+		"timestamp": 1639675236000,
+		"amount": "$412.56",
+		"declined": false,
+		"product_ids": "53, 59"
+	},
+	{
+		"id": "8028392D-6B8B-C3A3-4E16-E86603AD4204",
+		"card_id": "CcU-2959",
+		"business_id": "b-2362",
+		"lat_long": "39.5092320256, 138.794413568",
+		"timestamp": 1638443468000,
+		"amount": "$409.94",
+		"declined": false,
+		"product_ids": "31, 43, 37, 61"
+	},
+	{
+		"id": "1998A483-B4CD-FAE6-745C-8F2F2EB77A8E",
+		"card_id": "CcU-2959",
+		"business_id": "b-2362",
+		"lat_long": "-6.7704711168, 128.6790122496",
+		"timestamp": 1630234383000,
+		"amount": "$372.58",
+		"declined": false,
+		"product_ids": "31, 67, 47"
+	},
+	{
+		"id": "A89D4669-57D3-2ED8-5E49-BDC1293B0BBB",
+		"card_id": "CcU-2959",
+		"business_id": "b-2362",
+		"lat_long": "51.9699966976, 5.5534844928",
+		"timestamp": 1635438500000,
+		"amount": "$122.90",
+		"declined": false,
+		"product_ids": "43, 97, 47, 13"
+	},
+	{
+		"id": "2A37F5B3-11D8-3BA4-6E94-B7407D91942C",
+		"card_id": "CcU-2959",
+		"business_id": "b-2362",
+		"lat_long": "-81.8177120256, -65.9639804928",
+		"timestamp": 1641846701000,
+		"amount": "$83.19",
+		"declined": false,
+		"product_ids": "89, 59"
+	},
+	{
+		"id": "D2BA2DBB-ED84-B809-6198-E8461BE35646",
+		"card_id": "CcU-2959",
+		"business_id": "b-2362",
+		"lat_long": "-23.9645498368, -137.0453851136",
+		"timestamp": 1619046352000,
+		"amount": "$77.16",
+		"declined": false,
+		"product_ids": "37, 3"
+	},
+	{
+		"id": "69D90229-AD26-43C3-5AAF-8D332D3B3E62",
+		"card_id": "CcU-2959",
+		"business_id": "b-2362",
+		"lat_long": "4.0753650688, 129.7231412224",
+		"timestamp": 1647439296000,
+		"amount": "$329.03",
+		"declined": false,
+		"product_ids": "67, 29"
+	},
+	{
+		"id": "83A757C6-A262-AECA-6AC3-5FBA32AB7329",
+		"card_id": "CcU-2959",
+		"business_id": "b-2362",
+		"lat_long": "-55.1607783424, -117.3579845632",
+		"timestamp": 1631139931000,
+		"amount": "$212.41",
+		"declined": false,
+		"product_ids": "89, 13, 19, 43"
+	},
+	{
+		"id": "AD85A78A-8829-5746-93A0-8B7A792EBC18",
+		"card_id": "CcU-2938",
+		"business_id": "b-2362",
+		"lat_long": "25.5502450688, -142.6244872192",
+		"timestamp": 1647076990000,
+		"amount": "$263.59",
+		"declined": false,
+		"product_ids": "2, 3, 29"
+	},
+	{
+		"id": "26D8A738-B651-A620-1EEA-D8E2CD353BEB",
+		"card_id": "CcU-2938",
+		"business_id": "b-2362",
+		"lat_long": "15.687149568, 25.2507497472",
+		"timestamp": 1622215296000,
+		"amount": "$238.99",
+		"declined": false,
+		"product_ids": "19, 17, 7"
+	},
+	{
+		"id": "185C9F2C-67A2-8EC0-0BB6-93789CC59F05",
+		"card_id": "CcU-2938",
+		"business_id": "b-2362",
+		"lat_long": "9.5592757248, 165.7262669824",
+		"timestamp": 1627216499000,
+		"amount": "$285.24",
+		"declined": false,
+		"product_ids": "11, 53"
+	},
+	{
+		"id": "D3831AE1-A50D-1541-AF7B-EE75529F278A",
+		"card_id": "CcU-2938",
+		"business_id": "b-2362",
+		"lat_long": "51.683457536, 146.8069909504",
+		"timestamp": 1621386328000,
+		"amount": "$234.74",
+		"declined": false,
+		"product_ids": "23, 67"
+	},
+	{
+		"id": "87D22108-C911-AC97-A3BE-B91C1DEEAE79",
+		"card_id": "CcU-2938",
+		"business_id": "b-2362",
+		"lat_long": "-25.6402341888, -74.1919625216",
+		"timestamp": 1616461926000,
+		"amount": "$415.42",
+		"declined": false,
+		"product_ids": 23
+	},
+	{
+		"id": "02C6201E-D90A-1859-B4EE-88D2986D3B02",
+		"card_id": "CcU-2938",
+		"business_id": "b-2362",
+		"lat_long": "81.9184589824, -12.5275561984",
+		"timestamp": 1630194144000,
+		"amount": "$466.92",
+		"declined": false,
+		"product_ids": "71, 1, 19"
+	},
+	{
+		"id": "6575E457-EF8B-B50A-AD85-68ED6FE98BE1",
+		"card_id": "CcU-2938",
+		"business_id": "b-2362",
+		"lat_long": "-79.988224512, -45.7529433088",
+		"timestamp": 1635038993000,
+		"amount": "$297.16",
+		"declined": false,
+		"product_ids": 19
+	},
+	{
+		"id": "644264C8-A268-C3C5-5929-958C49CBC926",
+		"card_id": "CcU-2938",
+		"business_id": "b-2362",
+		"lat_long": "20.9825734656, 25.799645696",
+		"timestamp": 1618743912000,
+		"amount": "$34.55",
+		"declined": false,
+		"product_ids": "43, 1"
+	},
+	{
+		"id": "9B9F8626-8BA7-45E2-CE6D-CD16D0ED80E4",
+		"card_id": "CcU-2938",
+		"business_id": "b-2362",
+		"lat_long": "55.33201408, 16.3458040832",
+		"timestamp": 1625342187000,
+		"amount": "$372.23",
+		"declined": false,
+		"product_ids": "23, 67"
+	},
+	{
+		"id": "17561134-37A4-E316-2C3C-C5541EDAD761",
+		"card_id": "CcU-2938",
+		"business_id": "b-2362",
+		"lat_long": "-10.8528569344, 18.0969486336",
+		"timestamp": 1631683412000,
+		"amount": "$371.57",
+		"declined": false,
+		"product_ids": "53, 2"
+	},
+	{
+		"id": "C3516B1E-4923-B2DF-E6E2-B07548480CCF",
+		"card_id": "CcU-2938",
+		"business_id": "b-2362",
+		"lat_long": "27.7145867264, 133.7281160192",
+		"timestamp": 1631925109000,
+		"amount": "$247.13",
+		"declined": false,
+		"product_ids": 17
+	},
+	{
+		"id": "EFEECC2E-2A69-AB33-D599-E82AA689E3B3",
+		"card_id": "CcU-2938",
+		"business_id": "b-2362",
+		"lat_long": "2.5090881536, -91.8213536768",
+		"timestamp": 1625962767000,
+		"amount": "$394.59",
+		"declined": false,
+		"product_ids": "71, 53, 67"
+	},
+	{
+		"id": "55166D02-D74C-6A63-6C54-8678467649B4",
+		"card_id": "CcU-2938",
+		"business_id": "b-2362",
+		"lat_long": "-31.5170302976, -168.5745020928",
+		"timestamp": 1645700502000,
+		"amount": "$186.12",
+		"declined": false,
+		"product_ids": "97, 89, 83"
+	},
+	{
+		"id": "E6873589-5339-4189-E984-9F4B54C844A4",
+		"card_id": "CcU-2938",
+		"business_id": "b-2362",
+		"lat_long": "-70.210527232, -46.1508482048",
+		"timestamp": 1632795874000,
+		"amount": "$199.83",
+		"declined": false,
+		"product_ids": "37, 29"
+	},
+	{
+		"id": "18B2472B-DA8B-36F7-B0F2-7DDA688B73D1",
+		"card_id": "CcU-2938",
+		"business_id": "b-2362",
+		"lat_long": "-41.772207616, 98.2897368064",
+		"timestamp": 1632472424000,
+		"amount": "$391.38",
+		"declined": false,
+		"product_ids": "59, 23"
+	},
+	{
+		"id": "C9185110-96F7-193C-D4B4-D1086A63744A",
+		"card_id": "CcU-2938",
+		"business_id": "b-2362",
+		"lat_long": "-39.3218968576, -10.4055994368",
+		"timestamp": 1634442768000,
+		"amount": "$390.67",
+		"declined": false,
+		"product_ids": "53, 89, 23"
+	},
+	{
+		"id": "85068503-9D65-6978-D3C4-8E4A8A1B9A3C",
+		"card_id": "CcU-2938",
+		"business_id": "b-2362",
+		"lat_long": "82.3480390656, -20.586619904",
+		"timestamp": 1617262069000,
+		"amount": "$306.94",
+		"declined": false,
+		"product_ids": "17, 7, 47"
+	},
+	{
+		"id": "F1A598A2-86C5-50A9-F1CE-FB1D69866C39",
+		"card_id": "CcU-2938",
+		"business_id": "b-2362",
+		"lat_long": "-65.1240208384, 31.0336632832",
+		"timestamp": 1646859239000,
+		"amount": "$229.65",
+		"declined": false,
+		"product_ids": "79, 73"
+	},
+	{
+		"id": "AC777376-9329-BE65-285C-505D7C83A262",
+		"card_id": "CcU-2938",
+		"business_id": "b-2362",
+		"lat_long": "-14.0843895808, -37.5475961856",
+		"timestamp": 1627406092000,
+		"amount": "$330.07",
+		"declined": false,
+		"product_ids": "23, 97, 61, 83"
+	},
+	{
+		"id": "4DA5B1CE-E88C-23D1-AE6A-B7589E4FB2D5",
+		"card_id": "CcU-2938",
+		"business_id": "b-2362",
+		"lat_long": "39.2186534912, 63.5563158528",
+		"timestamp": 1616907704000,
+		"amount": "$378.86",
+		"declined": false,
+		"product_ids": 5
+	},
+	{
+		"id": "DA247F32-9723-9BB6-B770-BC39C252CE15",
+		"card_id": "CcU-2938",
+		"business_id": "b-2362",
+		"lat_long": "-19.4670546944, -157.9443550208",
+		"timestamp": 1617996221000,
+		"amount": "$283.15",
+		"declined": false,
+		"product_ids": "7, 2, 1"
+	},
+	{
+		"id": "935EBFEE-B75C-6C68-4AC3-61351035C549",
+		"card_id": "CcU-2938",
+		"business_id": "b-2362",
+		"lat_long": "5.3305776128, -15.6520848384",
+		"timestamp": 1626596459000,
+		"amount": "$20.44",
+		"declined": false,
+		"product_ids": "79, 61"
+	},
+	{
+		"id": "D84548D7-A8CE-3CC7-852E-1A67EF7937F7",
+		"card_id": "CcU-3981",
+		"business_id": "b-2362",
+		"lat_long": "-44.2302323712, -80.2959301632",
+		"timestamp": 1631812745000,
+		"amount": "$165.38",
+		"declined": false,
+		"product_ids": "67, 71, 19"
+	},
+	{
+		"id": "B8DD4087-8749-D9A1-4E81-C28FBFD76C94",
+		"card_id": "CcU-3981",
+		"business_id": "b-2362",
+		"lat_long": "-35.0168762368, -137.6801022976",
+		"timestamp": 1630579828000,
+		"amount": "$424.18",
+		"declined": false,
+		"product_ids": "5, 13, 47"
+	},
+	{
+		"id": "3EB67ADC-B4F1-83C4-93E2-E8469D1A37F6",
+		"card_id": "CcU-3981",
+		"business_id": "b-2362",
+		"lat_long": "-64.6374295552, -99.9423689728",
+		"timestamp": 1640291116000,
+		"amount": "$33.10",
+		"declined": false,
+		"product_ids": "37, 89"
+	},
+	{
+		"id": "88A92E6E-863C-A9AA-D832-B46BF23597CE",
+		"card_id": "CcU-3981",
+		"business_id": "b-2362",
+		"lat_long": "71.6826361856, 63.3574863872",
+		"timestamp": 1644846972000,
+		"amount": "$248.11",
+		"declined": false,
+		"product_ids": "13, 2, 31"
+	},
+	{
+		"id": "CAD3A46C-AA37-967D-A1BA-5C490488D9AC",
+		"card_id": "CcU-3981",
+		"business_id": "b-2362",
+		"lat_long": "-24.9745613824, 58.205023232",
+		"timestamp": 1623940364000,
+		"amount": "$21.97",
+		"declined": false,
+		"product_ids": "41, 97"
+	},
+	{
+		"id": "5ED7CB81-3126-AD69-E8D8-ACC187976BBB",
+		"card_id": "CcU-3981",
+		"business_id": "b-2362",
+		"lat_long": "41.440500736, 71.0664208384",
+		"timestamp": 1639987547000,
+		"amount": "$481.75",
+		"declined": false,
+		"product_ids": 43
+	},
+	{
+		"id": "E68665E5-5CB3-3325-9AE2-24B1E11353D2",
+		"card_id": "CcU-3981",
+		"business_id": "b-2362",
+		"lat_long": "36.9186917376, -109.359832576",
+		"timestamp": 1632225271000,
+		"amount": "$317.04",
+		"declined": false,
+		"product_ids": 13
+	},
+	{
+		"id": "D938FE61-B342-04B6-78A7-C9FA57B590AA",
+		"card_id": "CcU-3981",
+		"business_id": "b-2362",
+		"lat_long": "-66.9629433856, 5.1578479616",
+		"timestamp": 1628249234000,
+		"amount": "$330.90",
+		"declined": false,
+		"product_ids": "37, 23, 67, 13"
+	},
+	{
+		"id": "7BA8EED9-5129-BC22-1BBC-1E832192D5C4",
+		"card_id": "CcU-3981",
+		"business_id": "b-2362",
+		"lat_long": "-6.712328192, 104.2749416448",
+		"timestamp": 1643913019000,
+		"amount": "$159.14",
+		"declined": false,
+		"product_ids": "41, 61"
+	},
+	{
+		"id": "5ED6188E-9C6F-3B05-DE49-41543384BDF7",
+		"card_id": "CcU-3981",
+		"business_id": "b-2362",
+		"lat_long": "-10.612711424, -140.1277119488",
+		"timestamp": 1640591875000,
+		"amount": "$389.70",
+		"declined": false,
+		"product_ids": 11
+	},
+	{
+		"id": "D8FF8171-7166-24CA-3936-576581686158",
+		"card_id": "CcU-3981",
+		"business_id": "b-2362",
+		"lat_long": "65.1389412352, 32.423115264",
+		"timestamp": 1640799222000,
+		"amount": "$223.53",
+		"declined": false,
+		"product_ids": "41, 83"
+	},
+	{
+		"id": "11ABED97-EA12-1B9A-96F0-A93ACC172179",
+		"card_id": "CcU-3981",
+		"business_id": "b-2362",
+		"lat_long": "-78.8402023424, 8.7618164736",
+		"timestamp": 1626296148000,
+		"amount": "$157.20",
+		"declined": false,
+		"product_ids": 29
+	},
+	{
+		"id": "B31AC3BB-1529-B0CE-C385-41CDFF671921",
+		"card_id": "CcU-3981",
+		"business_id": "b-2362",
+		"lat_long": "29.642832896, -158.1350552576",
+		"timestamp": 1628490559000,
+		"amount": "$114.58",
+		"declined": false,
+		"product_ids": "11, 17"
+	},
+	{
+		"id": "2660D3B8-0B2C-AEBA-A891-95433968CF71",
+		"card_id": "CcU-3981",
+		"business_id": "b-2362",
+		"lat_long": "38.693677568, 1.8788864",
+		"timestamp": 1638325791000,
+		"amount": "$381.17",
+		"declined": false,
+		"product_ids": "83, 17, 29, 61"
+	},
+	{
+		"id": "18B1AD88-F155-45B7-D2EA-4738407435D6",
+		"card_id": "CcU-3981",
+		"business_id": "b-2362",
+		"lat_long": "36.2907927552, -128.820916224",
+		"timestamp": 1637958367000,
+		"amount": "$268.48",
+		"declined": false,
+		"product_ids": 7
+	},
+	{
+		"id": "E3E941D3-0866-2E6F-85D7-A2F21E79A215",
+		"card_id": "CcU-3981",
+		"business_id": "b-2362",
+		"lat_long": "-25.4470224896, -21.2186310656",
+		"timestamp": 1632391377000,
+		"amount": "$471.47",
+		"declined": false,
+		"product_ids": "7, 31, 29"
+	},
+	{
+		"id": "DA7A5D76-448A-678E-4836-465C8B963F4E",
+		"card_id": "CcU-4093",
+		"business_id": "b-2362",
+		"lat_long": "45.5819088896, 94.5767262208",
+		"timestamp": 1645293513000,
+		"amount": "$82.43",
+		"declined": false,
+		"product_ids": 83
+	},
+	{
+		"id": "44D0BBB1-975E-86AA-75DA-BDAFED65F368",
+		"card_id": "CcU-4093",
+		"business_id": "b-2362",
+		"lat_long": "34.5966703616, 161.5931583488",
+		"timestamp": 1626770864000,
+		"amount": "$133.39",
+		"declined": false,
+		"product_ids": 29
+	},
+	{
+		"id": "A2CD7827-4C8D-9E71-8549-262833307BF1",
+		"card_id": "CcU-4093",
+		"business_id": "b-2362",
+		"lat_long": "-4.3387579392, 6.8932369408",
+		"timestamp": 1621951605000,
+		"amount": "$460.82",
+		"declined": false,
+		"product_ids": "31, 97, 73"
+	},
+	{
+		"id": "8BCE9908-6D44-B7DB-D363-D468A2DF3A25",
+		"card_id": "CcU-4093",
+		"business_id": "b-2362",
+		"lat_long": "-0.1950178304, 22.3898129408",
+		"timestamp": 1645047908000,
+		"amount": "$156.23",
+		"declined": false,
+		"product_ids": "37, 67, 23, 83"
+	}
+]
