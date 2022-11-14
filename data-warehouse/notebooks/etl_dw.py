@@ -34,13 +34,9 @@ def __get_data_from_op():
 def load_data():
     # Coge los dataframes y los carga en la base
     # de `datos datawarehouse`
-    users, cards, companies, products, txns, prod_list = __get_data_from_op()
+    data = __get_data_from_op()
+    names = ['users', 'cards', 'companies', 'products', 'transactions', 'product_list']
     cur, conn = get_db(DW_DB)
-    __load_table("users", users, cur, conn)
-    __load_table("cards", cards, cur, conn)
-    __load_table("companies", companies, cur, conn)
-    __load_table("products", products, cur, conn)
-    __load_table("transactions", txns, cur, conn)
-    __load_table("product_list", prod_list, cur, conn)
+    for i in range(len(names)):
+        __load_table(names[i], data[i], cur, conn)
 
-   

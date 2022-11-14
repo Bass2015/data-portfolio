@@ -175,5 +175,3 @@ def build_insert(name, df):
           start += ', '
           middle += ', '
   return start + middle + end 
-
-

@@ -7,7 +7,7 @@ DW_DB = "datawarehouse"
 # función privada
 def __create_dbs():
     """
-        Create the datawarehouse and codeopfintech databases.
+        Create the datawarehouse and operational databases.
         If any of them already exists, Drop and create the database.
     Returns:
         success(boolean): wether the operation succeed or not.
